@@ -1,0 +1,14 @@
+{{ partial "header.html" .}}
+<h1> {{ .Title }} </h1>
+<p> {{ .Content }} </p>
+        <h3> Page Vars are these </h3>
+        Section = {{ .Section}}
+        Type    = {{ .Type }}
+        Weight  = {{ .Weight}}
+        <p> </p>
+        IsNode = {{ .IsNode }}
+        IsPage = {{ .IsPage }}
+        <p> PermaLink = <a href="{{ .Permalink }}" > See here </a></p>
+        <p> {{.Content}} </p>
+    
+{{partial  "footer.html" .}}

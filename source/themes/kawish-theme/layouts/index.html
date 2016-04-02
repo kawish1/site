@@ -1,6 +1,25 @@
 {{ partial "header.html" .}}
 
 <h1> Home page </h1>
+{{ .Data.Pages }}
 <p> Welcome to here </p>
+    {{ range $index, $element := .Data.Pages.ByWeight }}
+        <h1> Index: {{$index}}  </h1>
+        <h2> {{ .Title }} </h2>
+        
+        <h3> Page Vars are these </h3>
+        Section = {{ .Section}}
+        Type    = {{ .Type }}
+        Weight  = {{ .Weight}}
+        <p> </p>
+        IsNode = {{ .IsNode }}
+        IsPage = {{ .IsPage }}
+        <p> PermaLink = <a href="{{ .Permalink }}" > See here </a></p>
+        <p> {{.Content}} </p>
+    {{end}}
+    <h2> The site contains following sections</h2>
+    {{ range $index, $element := .Site.Sections}} 
+    <p> index {{ $index }} : element {{$element}}</p>
+    {{end}}
 
 {{ partial "footer.html" .}}
