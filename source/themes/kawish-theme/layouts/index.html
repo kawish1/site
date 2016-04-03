@@ -15,7 +15,6 @@
         IsNode = {{ .IsNode }}
         IsPage = {{ .IsPage }}
         <p> PermaLink = <a href="{{ .Permalink }}" > See here </a></p>
-        <p> {{.Content}} </p>
     {{end}}
     <h2> The site contains following sections</h2>
     {{ range $index, $element := .Site.Sections}} 

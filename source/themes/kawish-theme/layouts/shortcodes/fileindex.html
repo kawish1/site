@@ -1,0 +1,19 @@
+<table style="width=100%">
+<th>Size in bytes</th>
+<th>Name</th>
+{{$dir := .Get "dir"}}
+{{ $url := .Get "baseurl" }}
+
+{{ $files := readDir $dir }}
+    {{ range $files }}
+      {{ if (eq  "le" (substr .Name 0 2) )}}
+            <tr>
+                <td>{{.Size}}</td>
+                <td>
+                    <a href="{{$url}}{{.Name | urlize }}"> {{.Name}}</a>
+                    </td>
+             </tr>
+             {{end}}
+     {{ end }}
+ </table>
+

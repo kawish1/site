@@ -1,0 +1,53 @@
+{{ partial "header.html" .}}
+
+<h1> {{ .Title }} </h1>
+<h2> The Template rendered is course.html. </h2>
+
+    {{if isset .Params "courses"}}
+    <p> This is course page. The following courses are specified. </p>
+        {{ range $course := .Params.courses}}
+        <p> {{$course}} </p>
+        {{end}}
+
+    {{end}}
+    <h2>  Now I will list content using taxanomies.</h2>
+    <section>
+      <ul>
+        {{ range $taxonomyname, $taxonomy := .Site.Taxonomies }}
+            <li><a href="/{{ $taxonomyname | urlize }}">{{ $taxonomyname }}</a>
+            <ul>
+                 {{ range $key, $value := $taxonomy }}
+                    <li> {{ $key }} </li>
+                    <ul>
+                        {{ range $value.Pages }}
+                        <li hugo-nav="{{ .RelPermalink}}"><a href="{{ .Permalink}}"> {{ .LinkTitle }} </a> </li>
+                        {{ end }}
+                    </ul>
+                {{ end }}
+            </ul>
+            </li>
+        {{ end }}
+     </ul>
+     </section>
+
+    <ul id="tags">  
+    {{ range $name, $terms := .Site.Taxonomies.tags }}
+         
+    <li> {{ $name }} </li>
+        {{range $currentpage := $terms.Pages}}
+          <p> {{$currentpage.Site.BaseURL}} </p>
+        {{end}}
+    {{end}}
+    </ul>
+    <h2> The content for this piece</h2>
+<p> {{ .Content }} </p>
+        <h3> Page Vars are these </h3>
+        Section = {{ .Section}}
+        Type    = {{ .Type }}
+        Weight  = {{ .Weight}}
+        <p> </p>
+        IsNode = {{ .IsNode }}
+        IsPage = {{ .IsPage }}
+        <p> PermaLink = <a href="{{ .Permalink }}" > See here </a></p>
+    
+{{partial  "footer.html" .}}
