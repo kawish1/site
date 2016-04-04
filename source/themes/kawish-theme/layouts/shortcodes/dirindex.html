@@ -9,8 +9,9 @@
         {{ if .IsDir }}
             <tr>
                 <td>{{.Size}}</td>
-                <td>
-                    <a href="{{$url}}{{.Name | urlize }}"> {{.Name}}</a>
+                <td> 
+                    {{$str := replace $dir "content/" ""}}
+                    <a href="{{$url}}{{$str}}{{.Name | urlize }}/index.html"> {{.Name}}</a>
                     </td>
                 </tr>
         {{end}}

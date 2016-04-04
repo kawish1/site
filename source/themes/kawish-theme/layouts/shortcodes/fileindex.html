@@ -10,7 +10,8 @@
             <tr>
                 <td>{{.Size}}</td>
                 <td>
-                    <a href="{{$url}}{{.Name | urlize }}"> {{.Name}}</a>
+                    {{$str := replace $dir "content/" ""}}
+                    <a href="{{$url}}{{$str}}{{ (replace .Name ".md" "") | urlize }}/"> {{.Name}}</a>
                     </td>
              </tr>
              {{end}}
