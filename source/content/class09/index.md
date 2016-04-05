@@ -2,7 +2,7 @@
 # information used for ordering pages.
 date = "2016-03-31T13:21:43+01:00"
 draft = false
-title = "testpost"
+title = "Class Page"
 weight = 10
 
 # information used for selecting templates.

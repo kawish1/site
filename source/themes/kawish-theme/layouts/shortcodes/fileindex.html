@@ -1,6 +1,4 @@
 <table style="width=100%">
-<th>Size in bytes</th>
-<th>Name</th>
 {{$dir := .Get "dir"}}
 {{ $url := .Get "baseurl" }}
 
@@ -8,12 +6,11 @@
     {{ range $files }}
       {{ if (eq  "le" (substr .Name 0 2) )}}
             <tr>
-                <td>{{.Size}}</td>
                 <td>
                     {{$str := replace $dir "content/" ""}}
-                    <a href="{{$url}}{{$str}}{{ (replace .Name ".md" "") | urlize }}/"> {{.Name}}</a>
-                    </td>
-             </tr>
+                    <a href="{{$url}}{{$str}}{{ (replace .Name ".md" "") | urlize }}/" type=button class="btn btn-lg btn-success"> {{.Name}}</a>
+                </td>
+            </tr>
              {{end}}
      {{ end }}
  </table>
