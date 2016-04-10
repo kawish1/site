@@ -1,11 +1,12 @@
 
 {{ partial "header.html" .}}
+<div class="container">
 <ul class="breadcrumb">
+  <li> <font color="blue"> <h3> Go to </h3> </font> </li>
   <li>
-    <a href="{{.Site.BaseURL}}" class="btn-lg btn-success"> Home </a> 
+    <a href="{{.Site.BaseURL}}" class="btn-lg btn-primary"> Home </a>
   </li>
  </ul>
-<div class="container">
   <h1> {{ .Title }} </h1>
   <h2> The Template rendered is class.html. </h2>
   {{ .Content }}
