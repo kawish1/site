@@ -1,0 +1,175 @@
+x16pf8o	1	1	        introduction to biology and some branches tv
+x16pj4n	1	2	        biology and some major fields of specialization tv
+x16pjas	1	3	        levels of biological organization tv
+x16pjml	1	4	        levels of biological organization 2 tv
+x16pkd4	1	5	        levels of biological organization 3 tv
+x16pn38	1	6	        living world in space and time tv
+x16pno4	1	7	        biological method tv
+x16pvx5	1	8         biology and service of mankind 1 tv
+x16pwt3	1	9         biology and service of mankind 2 tv
+x1hyv04	1	9	        biology and service of mankind 2 
+x16pg2l	2	1	        introduction of biochemistry and tv
+x16pg9i	2	2	        importance of water tv
+x16pgbd	2	3	        carbohydrates part1 tv
+x16phd4	2	4	        carbohydrates part2 tv
+x188wum	2	6	        classification of lipids 1 
+x1890gr	2	7	        classification of lipids 2 
+x2rnodh	2	8	        introduction to proteins and its functions 
+x2mn6js	2	9	        composition of proteins 
+x2rnodr	2	9	        composition of proteins 
+x2mmfsc	2	10	        structure of proteins part 1 
+x2mr172	2	10	        structure of proteins part 1 
+x2mmfsk	2	11	        structure of proteins part 2 
+x2mr17d	2	11	        structure of proteins part 2 
+x2mmfsr	2	12	        nucleic acids and their types 
+x2mr17f	2	12	        nucleic acids and their types 
+x2uftgb	2	13	        types of nucleotides 
+x12n1yw	3	1	        enzymes introduction structure and function tv
+x12oz5g	3	2	        enzymes characteristics factors effecting rate of enzyme action and inh tv
+x12p0rg	4	1	        cell theory tv
+x12p1ds	4	2	        cell and its types 
+x13m6eg	4	3	        animal cell and plant cell tv
+x13bd9j	4	5	        cell wall tv
+x13bdjv	4	6	        cytoplasm tv
+x13bdow	4	7	        endoplasmic reticulum tv
+x13m6ov	4	7	        plasma membrane tv
+x13bdx9	4	8	        ribosomes tv
+x13bf3l	4	9	        golgi apparatus tv
+x13bf40	4	10	        lysosomes tv
+x13bf45	4	11	        peroxisomes and glyoxisomes tv
+x13bf4b	4	12	        cytoskeleton and centriol tv
+x13bges	4	13	        mitochondria tv
+x13bgf6	4	14	        vacules and plastids tv
+x13bgfe	4	15	        plastids chloroplast 1 tv
+x13bgfv	4	16	        nucleus nuclear membrain and nucleolus tv
+x13bh60	4	17	        nucleus chromatin and chromosomes tv
+x18bwbf	5	1	        introduction to biological classification 
+x29c908	5	2	        binomial nomenclature 
+x29c90m	5	3	        two to five kingdom system of classification part1 
+x29c90x	5	4	        two to five kingdom system of classification part 2 
+x29c913	5	5	        introduction to viruses and their characteristics 
+x29c91d	5	6	        classification and structure of viruses 
+x29ca3k	5	7	        parasitic nature of viruses 
+x29ca3w	5	8	        life cycle of bacteriophage 
+x2ufthg	5	9	        acquired immune deficiency syndrome hiv 
+x2x11m6	6	1	        introduction and discovery of bacteria 
+x2x11n8	6	2	        occurence and shapes of bacteria 
+x2x11ns	6	3	        bacterial cell structure part1 
+x2x11oz	6	4	        bacterial cell structure part2 
+x2x11pg	6	5	        bacterial cell structure part3 
+x2x11pz	6	6	        mode of nutrition and respiration in bacteria 
+x2x11qc	6	7	        growth in bacteria 
+x2x1k2q	6	8	        reproduction in bacteria 
+x2x1k3s	6	9	        importance of bacteria 
+x2x1qkw	6	10	        control of bacteria 
+x2x1ql7	6	11	        use and misuse of antibiotics 
+x2x1qlm	6	12	        immunization and vaccination 
+x2x1t6k	6	13	        cyanobacteria and its importance 
+x2jysge	07	1	        introduction to kingdom protista 
+x2jytos	07	2	        classification of protozoa amoeba and zooflagelates 
+x2jytpc	07	3	        classification of protozoa ciliates foraminiferans and actinopodes 
+x2jytpw	07	4	        classification of protozoa apicomplexans 
+x2jytqd	07	5	        algae and its characteristics 
+x2jyts6	07	6	        classification of algae part 1 
+x2jyuze	07	7	        classification of algae part 2 
+x2xy1aj	8	1	        introduction and general characteristics of fungi 
+x2xy1bi	8	2	        body of fungus 
+x2xy1bw	8	3	        nutrition in fungi 
+x2xy1ch	8	4	        reproduction in fungi 
+x2xy1d4	8	5	        classification of fungi zygomycota and ascomycota 
+x2xy1dw	8	6	        classification of fungi basidiomycota and deuteromycota 
+x2xy3r8	8	7	        importance of fungi 
+x2xy3zb	8	8	        losses due to fungi 
+x2xy500	8	9	        land adaptations of fungi 
+x2jyv01	09	1	        introduction to kingdom plantae 
+x2jyv0i	09	2	        division bryophyta 
+x31dlpx	9	3	        generations in division bryophyta 
+x31dlqq	9	4	        land adaptations of bryophytes 
+x31dreg	9	5	        classification of bryophytes hepaticopsida 
+x31dlr9	9	6	        classification of bryophytes bryopsida 
+x31dlrl	9	7	        classification of bryophytes anthoceropsida 
+x31dlrz	9	8	        alternation of generation 
+x31dmsu	9	9	        division tracheophyta and subdivision psilopsida 
+x31ij7g	9	10	        evolution of leaf 
+x31v8yt	9	11	        lycopsida sphenopsida and pteropsida 
+x31v919	9	12	        class filicinae and life cycle of adiantum 
+x31ij94	9	13	        evolution of seed 
+x31ij9o	9	14	        class gymnospermae and life cycle of pinus 
+x31vk4j	9	15	        class angiospermae and life cycle of angiospermic plant 
+x2jzm6t	10	1	        introduction to animal kingdom part 1 
+x2jzm7d	10	2	        introduction to animal kingdom part 2 
+x2jzm80	10	3	        introduction to animal kingdom part 3 
+x2jzm8j	10	4	        phylum porifera part 1 
+x2jzma5	10	5	        phylum porifera part 2 
+x2jzmut	10	6	        phylum cnidaria part 1 
+x2jzmvj	10	7	        phylum cnidaria part 2 
+x2jzmw3	10	8	        phylum platyhelminthes 
+x2jzmya	10	9	        phylum nematoda 
+x2jzmzq	10	10	        phylum annelida 
+x2jzqe5	10	11	        phylum mollusca 
+x2jzqei	10	12	        phylum arthropoda 
+x2jzqf2	10	13	        phylum echinodermata 
+x2jzqfk	10	14	        phylum hemichordata and chordata 
+x2jzsqz	10	15	        superclass pices 
+x2jzsrw	10	16	        amphibians and reptiles 
+x2jzu2p	10	17	        birds and mammals 
+x2jyv39	11	1	        introduction to bioenergetics 
+x2jyv4c	11	2	        photosynthesis and the role of water 
+x2jyv4y	11	3	        role of chloroplasts and photosynthetic pigments in photosynthesis 
+x2jyv5h	11	4	        photosynthetic pigments and structure of chlorophyll 
+x2jyv5z	11	5	        role of light and carbondioxide in photosynthesis 
+x2mqwly	11	6	        reactions in photosynthesis 
+x2mqwm6	11	7	        photosynthesis light dependent reactions 
+x31dla9	11	8	        photosynthesis light independent reactions 
+x31dlas	11	9	        introduction to respiration 
+x31dlb9	11	10	        cellular respiration glycolysis 
+x31dlbl	11	11	        cellular respiration kreb cycle 
+x31dlcn	11	12	        cellular respiration respiratory chain 
+x2qy8pw	12	1	        autotrophic nutrition in plants 
+x2qxdfu	12	2	        heterotrophic nutrition in plants part 1 
+x2qy8rt	12	3	        heterotrophic nutrition in plants part 2 
+x2qy8sm	12	4	        methods of animal nutrition 
+x2qxdgk	12	5	        parasitic nutrition 
+x31dlg2	12	6	        digestion and absorption 
+x31dlh2	12	7	        digestion in amoeba 
+x31dlh8	12	8	        digestion in hydra 
+x31dlhs	12	9	        digestion in planaria 
+x31dlia	12	10	        digestion in cockroach 
+x2uftip	12	11	        human digestive system digestion in oral cavity 
+x2uftjg	12	12	        human digestive system digestion in stomach 
+x2uftkq	12	13	        human digestive system digestion in small intestine 
+x2uftl0	12	14	        human digestive system absorption of food 
+x2uftl5	12	15	        human digestive system absorption in large intestine 
+x2uftmc	12	16	        disorders related to digestive system 1 
+x2uftms	12	17	        disorders related to digestive system ii 
+x2qxkc3	13	1	        introduction to gaseous exchange 
+x2qyfmm	13	2	        gaseous exchange in plants 
+x2qyfra	13	3	        respiratory organs in animals 
+x2qxkej	13	4	        respiration in hydra earthworm and cockroach 
+x2qyfrn	13	5	        respiration in fish 
+x2qxkh5	13	6	        respiration in frog 
+x2qxkhx	13	7	        respiration in birds 
+x2qyfs5	13	8	        respiration in human beings air passage ways 
+x2qy2qf	13	9	        respiration in human beings mechanism of breathing 
+x2qy2qp	13	10	        transport of respiratory gases oxygen gas 
+x2qxkjb	13	11	        transport of respiratory gases carbondioxide gas 
+x31dliv	13	12	        role of respiratory pigments and lungs capacity 
+x31dlj6	13	13	        respiratory disorders 
+x13bh8c	14	1	        human circulatory system and heart structure tv
+x2lnsgr	14	1	        introduction to transport and transport in plants 
+x2lnshd	14	2	        absorption in roots 
+x2lnshl	14	3	        ascent of sap 
+x2lnsi1	14	4	        transpiration and its types 
+x2lnsie	14	5	        factors affecting rate of transpiration 
+x2lnu4n	14	6	        transport by phloem 
+x2lnv3s	14	7	        transport in animals 
+x2lnweo	14	8	        closed circulatory system 
+x2mv92k	14	9	        transport in man blood part 1 
+x2mv937	14	10	        transport in man blood part 2 
+x2mv941	14	11	        functions and disorders of blood 
+x2mvf3u	14	12	        structure of human heart 
+x2mvf47	14	13	        cardiac cycle 
+x2my91f	14	14	        blood vessels 
+x2nao14	14	15	        problems of circulatory system 
+x2naqjj	14	16	        lymphatic system 
+x2nast7	14	17	        immunity 

@@ -1,0 +1,155 @@
+x16z9ms	14	14	        energy for muscle contraction and muscle problems 
+x14e0qw	15	1	        concept of homeostasis tv
+x14rl55	15	1	        concept of homeostasis tv
+x14e2lw	15	2	        water relation of cells 
+x14rl5y	15	2	        water relation of cells tv
+x14ferv	15	3	        osmoregulation in plants 
+x14rlcj	15	3	        osmoregulation in plants tv
+x14iy1z	15	4	        osmoregulation in animals 
+x14rlcr	15	4	        osmoregulation in animals tv
+x14jej6	15	5	        excretion in plants tv
+x14rlkz	15	5	        excretion in plants tv
+x14rll0	15	6	        excretion in animals tv
+x14rlvl	15	7	        nature of excretory products in relation to habitat tv
+x14rlz7	15	8	        excretion in hydra and planaria tv
+x14rmcp	15	9	        excretion in earthworm and cockroach tv
+x14rmo0	15	10	        excretion in vertebrates liver as excretory organ tv
+x14rmru	15	11	        human urinary stystem tv
+x14rmwo	15	12	        concenteration of excretory product and kidney as osmoregulatory orga tv
+x14rmyy	15	13	        kidney problems and cures tv
+x14sagw	15	14	        dialysis and kidney transplant tv
+x15b114	15	15	        thermoregulation in animals and plants tv
+x15b1w4	15	16	        thermoregulation in mammals adaptations and fever tv
+x14qw1b	16	1	        concept and need support in plants 
+x14rign	16	1	        concept and need support in plants tv
+x14qwj2	16	2	        significance of secondary growth in plants tv
+x14rjgu	16	2	        significance of secondary growth in plants tv
+x14qxkk	16	3	        movements in plants 1 
+x14rjlq	16	3	        movements in plants 1 tv
+x14rjm2	16	4	        movements in plants 2 tv
+x14r4qb	16	5	        support and movement in animals 
+x14rjwa	16	5	        support and movement in animals tv
+x14r58h	16	6	        functions of skeletal system and endoskeleton 
+x14rjwe	16	6	        functions of skeletal system and endoskeleton tv
+x14rki5	16	7	        human skeleton axial skeleton tv
+x14rkdg	16	8	        human skeleton appendicular skeleton tv
+x14rkqn	16	9	        deformities in skeleton tv
+x14rkqv	16	10	        repair of broken bones tv
+x14oyk4	16	11	        mucles creation
+x14pqyr	16	12	        skeletal muscles and sliding filament model creation
+x14s9dy	16	13	        sliding filament model in detail 
+x15b2md	16	13	        sliding filament model in detail 
+x16zb3a	16	15	        arrangement of skeletal muscles for movement of skeleton and locomoti 
+x16zflo	16	16	        locomotion and paramecium and amoeba and jelly fish 
+x179uqf	16	17	        locomotion in earth worm cockroach snail and 
+x18duj7	16	18	        locomotion in amphibians reptiles and birds 
+x18dvn9	16	19	        locomotion in mammals and evolutionary changes in arrangement of bone 
+x2cazdv	17	1	        introduction and coordination in plants 
+x2cb6t8	17	2	        responses against environmental stress defenses against pathogens and 
+x2cazeb	17	3	        plant hormones auxins and gibberellins 
+x2cb6tl	17	4	        plant hormones cytokinins abscisic acid and ethene 
+x2cazev	17	5	        coordination in animals nervous coordination 
+x2cb8zx	17	6	        working of sensory receptors with special reference to skin 
+x2cb905	17	7	        structure and types of neurons 
+x2cb4et	17	8	        effector organs and reflex arc 
+x2cb909	17	9	        nerve impulse and resting membrain pottential 
+x2cu0m2	17	10	        nerve impulse active membrane potential and propagation of nerve impu 
+x2cu0mb	17	11	        synapse 
+x2cu0mf	17	12	        evolution of nervous system diffused and centralized nervous system 
+x2cvtc1	17	13	        human nervous system and anatomy of brain 
+x2cvtc9	17	14	        structure and function of brain 
+x2cu2ka	17	15	        spinal chord and peripheral nervous system 
+x2cu2kp	17	16	        nervous disorders and effect of drugs on nervous system 
+x2cu2l7	17	17	        introduction of chemical coordination and hormones 
+x2cvtdq	17	18	        pituitary gland 
+x2cu2m3	17	19	        thyroid and parathyroid gland 
+x2cu6av	17	20	        islets of langerhans pancreas 
+x2cu6bd	17	21	        adrenal gland 
+x2cvte1	17	22	        endocrine function of gut and gonades 
+x2cu6cc	17	23	        feed back mechanism 
+x2cu6ct	17	24	        comparison between nervous and chemical coordination 
+x2cvteg	17	25	        introduction to behaviour and types of behavrior 
+x2cu6mj	17	26	        difference between instictive and learning behaviour 
+x2cvvms	17	27	        learning behavior and its types 
+x3c9cw0	18	1	        introduction to reproduction reproduction in plants tv
+x3c9cvz	18	2	        flowering time tv
+x3c9cvy	18	3	        reproduction in animals tv
+x3c9cvx	18	4	        male and female reproductive system tv
+x3c9cvw	18	5	        menstrual cycle tv
+x3c9cvv	18	6	        pregnancy and birth tv
+x2ipryc	20	1	        introduction 
+x2ipw7a	20	2	        chromosomes and their types 
+x2ipv6r	20	4	        chromosomal theory of inheritance 
+x2ips0m	20	5	        dna as heriditary material 
+x2ipy1e	20	6	        chemical structure of dna and watson and crick s model 
+x2ipy9q	20	7	        dna replication model and meselson and stahl s experiment 
+x2iqd3h	20	8	        dna replication 
+x2ipyar	20	9	        gene and one gene one polypeptide theory 
+x2ipyb9	20	10	        how dna encodes proteins 
+x2iqh9n	20	11	        transcription 
+x2iqinu	20	12	        genetic code 
+x2iqo9c	20	13	        translation 
+x2iqiom	20	14	        mutations 
+x18dx0e	21	1	        introduction interphase and mitosis 
+x18fxjt	21	2	        mitosis 
+x18fybv	21	3	        significance of mitosis and cancer 
+x255jbv	21	4	        meiosis and crossing over tv
+x255jcl	21	5	        meiosis 1 and meiosis 2 tv
+x255jd1	21	6	        importance of meiosis and meiotic errors tv
+x255jdd	21	7	        apoptosis and necrosis tv
+x255kxe	22	1	        introduction genes alleles and gene pool tv
+x255ld2	22	2	        introuduction to mendelian genetics tv
+x255ldb	22	3	        mendel s laws of genetics punnet square and test cross tv
+x255l0g	22	4	        test cross and dihibrid cros tv
+x255m3t	22	5	        dominance relations in genetics tv
+x255m4x	22	6	        human blood group genetics tv
+x255mlk	22	7	        epistasis bombay phenotype and continously varying traits tv
+x255mmf	22	8	        gene linkage crossing over and recombinant frequency tv
+x255n9o	22	9	        sex determination in man animals and plants tv
+x2cavp6	22	10	        sex linkage in drosophila 
+x2cavqa	22	11	        sex linkage in drosophila part 2 
+x2cy7zz	22	12	        sex linkage in humans and genetics of hemophilia 
+x2cycqv	22	13	        sex linkage in humans and genetics of color blindness 
+x2cavqn	22	14	        x linked dominant inheritance and y linked inheritance 
+x2cyoa3	22	15	        diabetes melitus and its genetic basis 
+x2cw5cy	23	1	        introduction to biotechnology 
+x2cw5d7	23	2	        cloning of gene dna recombinant technology 
+x2cw5e2	23	3	        vector recombinant dna and its expression 
+x2cw7z8	23	4	        genomic library probe and genome 
+x2cw7zf	23	5	        polymerase chain reaction 
+x2cwaze	23	6	        analyzing dna dna finger printing and electrophoresis 
+x2e1cgw	23	7	        gene sequencing 
+x2e1cht	23	8	        human genome project 
+x2e1ci8	23	9	        biotechnolgy products transgenic bacteria 
+x2e1ciq	23	10	        biotechnology products trangenic plants 
+x2ja79d	23	11	        biotechnology products trangenic animals and cloning of transgenic an 
+x2ja79l	23	12	        gene therapy 
+x2ja79t	23	13	        tissue culture 
+x2ja79x	23	14	        genetic engineering in plants 
+x2jen5b	24	1	        introduction to evolution 
+x2jen6o	24	2	        evolution from prokaryotes to eukaryotes 
+x2jen6x	24	3	        inheritance of acquired characteristics 
+x2jen6z	24	4	        charlis darwin and theory of natural selection 
+x2jen77	24	5	        evidences of evolution comparative anatomy fossil record and biogeogra 
+x2jen78	24	6	        evidences of evolution comparative embryology and molecular biology 
+x39ty4i	24	7	        natural selection and artificial selection population gene pool allel tv
+x39u3gg	24	8	        hardy weinberg theorem and factors affecting the gene frequencies tv
+x39ty4k	24	9	        endangered species tv
+x2rnosf	25	1	        introduction ecosystem and ecology 
+x2rnost	25	2	        autecology syncology biotic and abiotic component of ecosystem 
+x2rnosy	25	3	        succession and two major forms of succession 
+x2rnw8o	25	4	        predation parasitism symbiosis and mutualism 
+x2rnotc	25	5	        biogeochemical cyscles nitrogen cycle and flow of energy in ecosystem 
+x2qxko6	26	1	        introduction to some major ecosystem climate and equatic ecosystem 
+x2qyg1q	26	2	        fresh water lakes and intervention of man in aquatic envrionment 
+x2qyg03	26	3	        terrestrial ecosystem adaptation and divisions of terrestrial ecosyste 
+x2qxkpw	26	4	        some major ecosystems of pakistan temperate deciduous coneferous alpin 
+x2qxkq9	26	5	        grass land and desert ecosystem 
+x2qypkt	26	6	        tundra ecosystem human and ecosystems 
+x2qxkt2	27	1	        introduction renewable and non renewable resources 
+x2qyg7h	27	2	        wild life renewable and non renewable energy resources 
+x2qxku5	27	3	        energy conservation degradation and depletion of resources and modific 
+x2qxkub	27	4	        human impact on environment and population crisis 
+x2uftn6	27	5	        deforestation aforestation atmospheric pollution green house effect an 
+x2uftno	27	6	        water pollution acid rain pesticides and fertilizers 
+x2uftnu	27	7	        health and diseases 

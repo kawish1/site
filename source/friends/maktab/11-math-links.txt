@@ -1,0 +1,304 @@
+x16qi4d	1	1	        introduction to number systems 
+x16qikx	1	2	        properties of real numbers part 1 
+x16qixg	1	3	        properties of real numbers part 2 
+x16qj64	1	4	        properties of real numbers part 3 
+x16qk2d	1	5	        properties of real numbers part 4 
+x16q36h	1	6	        exercise 1 
+x2nbtrk	1	7	        introduction to complex numbers 
+x2ndp48	1	8	        operations on complex numbers 
+x2ndp4g	1	9	        complex numbers as ordered pairs of real numbers 
+x2ndp4m	1	10	        properties of the fundamental operations on complex numbers 
+x2nfgan	1	11	        exercise questions 1 3 
+x2nny38	1	12	        exercise questions 4 5 
+x2nnzcd	1	13	        exercise questions 6 12 
+x2no0i4	1	14	        exercise questions 13 16 
+x2no4sm	1	15	        the real line 
+x2no4su	1	16	        the real plane or coordinate plane 
+x2no5zu	1	17	        the complex plane 
+x2no8xt	1	18	        exercise questions 1 3 
+x2noaru	1	19	        exercise questions 4 7 
+x1xgbz8	2	1	        intro 1 
+x1xgc1r	2	2	        intro 2 
+x1xgj7q	2	3	        intro 3 
+x1xl59x	2	4	        exercise questions 1 
+x1xl5bo	2	5	        exercise questions 2 3 
+x1xl5cr	2	6	        exercise questions 4 8 
+x1xgpp3	2	7	        exercise questions 9 10 
+x1xkj14	2	8	        operations on sets 
+x1xgruv	2	9	        9 venn diagrams 
+x1xgusj	2	10	        exercise questions 1 4 
+x1xgvzl	2	11	        exercise questions 5 6 
+x1xgjav	2	12	        properties of union and intersection 
+x1xgnch	2	13	        de morgan s laws 
+x1xgyeh	2	14	        exercise questions 1 2 
+x1xgyqa	2	15	        exercise questions 3 9 
+x1xgpm8	2	16	        symbolic logic 
+x1xkj1u	2	17	        conditional and biconditional 
+x1xkj2u	2	18	        tautalogy absurdity and quantifiers 
+x2w5sow	2	19	        exercise questions 1 5 
+x1xkj4y	2	20	        truth sets 
+x1xh5n4	2	21	        exercise questions 1 4 
+x1xks83	2	22	        relations 
+x1xl3ed	2	23	        functions 
+x1xl54h	2	24	        types of functions 
+x1xh5os	2	25	        exercise questions 1 3 
+x1xh6f5	2	26	        exercise questions 4 
+x2w5s2r	2	27	        binary operations 
+x2vdxbb	2	28	        groups 
+x19c9mo	3	1	        intro 1 
+x19c9p1	3	2	        intro 2 
+x19ltoo	3	3	        intro 3 
+x19ltr1	3	4	        intro 4 
+x19ltti	3	5	        exercise questions 1 5 
+x1bcju0	3	6	        exercise questions 8 11 
+x1bcjvh	3	7	        exercise questions 12 14 
+x1bcjyh	3	8	        exercise questions 1 3 
+x1bck1n	3	9	        exercise questions 6 9 
+x1bciiu	3	10	        determinants and cofactors 
+x1bcix5	3	11	        inverse of matrics of order 3 
+x1bcj64	3	12	        properties of determinants tv
+x1bck5f	3	13	        exercise questions 1 2 
+x2vdxcq	3	14	        exercise questions 3 4 
+x1bck7m	3	15	        exercise questions 5 6 
+x1bck9z	3	16	        exercise questions 7 8 
+x1bckft	3	17	        exercise questions 9 10 
+x1bckhy	3	18	        exercise questions 11 13
+x1bckla	3	19	        exercise questions 14 17 
+x1bcjjp	3	20	        elementary row and column operations on a matrix 
+x1bcjka	3	21	        echelon and reduced echelon forms of matrices 
+x1bcjl6	3	22	        conversion of a matrix into echelon and reduced echelon forms 
+x1bcknb	3	23	        exercise questions 1 4 
+x1bckpg	3	24	        exercise questions 5 6 tv
+x1bcks9	3	25	        exercise questions 7 10 
+x1bcjn4	3	26	        system of linear equations 
+x1bcjoa	3	27	        augmented matrix 
+x1bcjpg	3	28	        cramer s rule 
+x13vop6	4	1	        an introduction to quadratic equations 
+x17aky1	4	2	        solution of quadratic equations tv
+x17cjkh	4	3	        exercise 1 
+x17bvvi	4	4	        equations reducible to quadratic equations part 1 tv
+x17cima	4	5	        equations reducible to quadratic equations part 2 
+x13vqrr	4	6	        exponential equations tv
+x17csrd	4	7	        reciprocal equations 
+x17gw62	4	8	        exercise 2 part 1 tv
+x17ckjs	4	9	        exercise 2 part 2 
+x17cv5c	4	10	        exercise 2 part 3 
+x17cqdn	4	11	        radical equations type 1 
+x17csnm	4	12	        radical equations type 2 3 
+x17csh6	4	13	        radical equations type 4 
+x17cvix	4	14	        exercise 3 part 1 
+x17gv7l	4	15	        exercise 3 part 2 tv
+x17ctgx	4	16	        cube roots of unity 
+x17cvsv	4	17	        exercise 4 part 1 
+x17d17r	4	18	        exercise 4 part 2 
+x17cs4z	4	19	        polynomial functions remainder theorem 
+x16r1g2	4	20	        factor theorem synthetic division tv
+x17czv1	4	21	        exercise 5 
+x17ct6r	4	22	        relation between roots coefficients 
+x16zrh2	4	23	        exercise 6 part 1 tv
+x16zrjf	4	24	        exercise 6 part 2 tv
+x16zv0o	4	25	        nature of roots of a quadratic equation tv
+x16zrqw	4	26	        exercise 7 tv
+x1700vd	4	27	        system of equations tv
+x17guoh	4	27	        system of equations travel
+x16zrmb	4	28	        exercise 8 tv
+x17csdq	4	29	        problems on quadratic equations 
+x17cj5i	4	30	        exercise 10 
+x15kmok	5	1	        introduction of partial fractions tv
+x16qfx0	5	1	        introduction of partial fractions 
+x15kn4m	5	2	        non repeated linear factors case 1 tv
+x16qdxe	5	4	        exercise 1 part 2 
+x16qigr	5	5	        partial fractions case 2 
+x17d06o	5	6	        exercise 2 
+x17brbz	5	7	        when q x contains non repeated irreducible quadratic factors case 3 
+x17d0kf	5	8	        exercise 3 
+x17bs3w	5	9	        partial fractions case 4 
+x17cljd	5	10	        exercise 4 
+x16aafw	6	1	        introduction of sequences tv
+x16qebk	6	2	        exercise 1 
+x17bq5k	6	3	        arithmetic sequence 
+x16qerp	6	4	        exercise 2 part 1 
+x16qfba	6	5	        exercise 2 part 2 
+x17bikn	6	6	        arithmetic mean
+x17chr1	6	6	        arithmetic mean 
+x17cm16	6	7	        exercise 3 
+x17bqqk	6	8	        arithmetic series 
+x17coiy	6	9	        exercise 4 part 1 
+x16qfe9	6	10	        exercise 4 part 2 
+x16qffy	6	11	        exercise 4 part 3 
+x16qk2y	6	12	        word problems on arithmetic progressions 
+x17cmhc	6	13	        exercise 5 
+x17cr0y	6	14	        geometric sequences 
+x17coto	6	15	        exercise 6 part 1 
+x17cpet	6	16	        exercise 6 part 2 
+x17cpp5	6	17	        exercise 7 part 1 
+x17cmx2	6	18	        exercise 7 part 2 
+x17cqp0	6	19	        geometric mean 
+x17criy	6	20	        geometric series 
+x17cn7v	6	21	        exercise 8 part 1 
+x17cnis	6	22	        exercise 8 part 2 
+x17cnpt	6	23	        exercise 9 
+x17csx5	6	24	        relation between arithmetic geometric and harmonic means 
+x17cruo	6	25	        harmonic sequence 
+x17cq1d	6	26	        exercise 10 part 1 
+x17cnwu	6	27	        exercise 10 part 2 
+x2bt3ub	7	1	        factorial notation 
+x2bt3w5	7	2	        exercise questions 1 2 
+x2bt3x0	7	3	        fundamental priciple of counting 
+x29d8fc	7	4	        permutation 
+x2bt3xd	7	4	        permutation 
+x2bt3yd	7	5	        exercise questions 1 3 
+x2bt67y	7	6	        exercise questions 4 7 
+x2bt68c	7	7	        exercise questions 8 9 
+x2bt68s	7	8	        exercise questions 10 14 
+x2bt68z	7	9	        circular permutation 
+x2bt69e	7	10	        exercise questions 1 4 
+x2bthxv	7	11	        exercise questions 5 7 
+x2btfor	7	12	        exercise questions 8 12 
+x2bti3s	7	13	        combinations 
+x2btivl	7	14	        complementary combinations 
+x2btk38	7	15	        exercise questions 1 3 
+x2btlbm	7	16	        exercise questions 3 4 
+x2btlq9	7	17	        exercise questions 5 7 
+x2btlql	7	18	        exercise questions 8 10 
+x2btlr9	7	19	        probability 
+x2btlrq	7	20	        calculation of probability 
+x2btn90	7	21	        exercise questions 1 2 
+x2btn9e	7	22	        exercise questions 3 5 
+x2btn9t	7	23	        exercise questions 6 10 
+x2btna1	7	24	        estimating probability and tally marks 
+x2btnah	7	25	        exercise questions 1 3 
+x2btru7	7	26	        addition of probabilities 
+x2btrcs	7	27	        exercise questions 1 4 
+x2btrdf	7	28	        exercise questions 4 5 
+x2btre2	7	29	        exercise questions 6 8 
+x2cktg5	7	30	        dependent and independent events 
+x2btyc1	7	31	        multiplication of probabilities 
+x2btv3t	7	32	        exercise questions 1 2 
+x2btv44	7	33	        exercise questions 3 5 
+x2btwzj	7	34	        exercise questions 6 
+x2ckuhx	7	35	        exercise questions 7 10 
+x2d3ab2	8	1	        mathematical induction introduction 
+x2d3acn	8	2	        principle of mathematical induction 
+x2d3ad5	8	3	        principle of extended mathematical induction 
+x2d3aea	8	4	        exercise questions 1 4 
+x2d3aen	8	5	        exercise questions 5 10 
+x2d3ayb	8	6	        exercise questions 11 15 
+x2d3ayw	8	7	        exercise questions 16 20 
+x2d3azm	8	8	        exercise questions 21 25 
+x2d3b06	8	9	        exercise questions 26 30 
+x2d3b0v	8	10	        exercise questions 31 38 
+x2d3e2q	8	11	        binomial theorem part 1 
+x2d3e72	8	12	        binomial theorem part 2 
+x2d3e7x	8	13	        binomial theorem part 3 
+x2d3e8f	8	14	        binomial theorem part 4 
+x2d3e8u	8	15	        middle term of expansion 
+x2d3jq6	8	16	        exercise questions 1 2 
+x2d3jqu	8	17	        exercise questions 3 4 
+x2d3jrv	8	18	        exercise questions 5 7 
+x2d3jsx	8	19	        exercise questions 8 11 
+x2d3k6r	8	20	        exercise questions 12 14 
+x2ja7vb	8	21	        binomial series 
+x2ja7vg	8	22	        summation of binomial series 
+x2ja7vk	8	23	        exercise questions 1 2 
+x2ja7vt	8	24	        exercise questions 3 4 
+x2ja7w1	8	25	        exercise questions 5 7 
+x2jaabf	8	26	        exercise questions 8 9 
+x1bcjqx	9	1	        intro 1 
+x1bcjs6	9	2	        intro 2 
+x1bckuf	9	3	        exercise questions 1 7 
+x1bckvf	9	4	        exercise questions 8 12 tv
+x1ok5hb	9	5	        trigonometric functions 1 tv
+x1ok63l	9	6	        trigonometric functions 2 tv
+x2w5tva	9	7	        fundamental identities 
+x1ok82z	9	8	        signs of trigonometric functions tv
+x1okakc	9	8	        signs of trigonometric functions tv
+x1orxyn	9	9	        exercise questions 1 3 tv
+x1os57d	9	10	        exercise questions 4 5 tv
+x1os5ga	9	11	        exercise questions 6 8 
+x1os653	9	12	        values of trigonometric functions of acute angles 45 30 60 
+x1osfbx	9	13	        values of trigonometric functions of quadrantal angles 0 90 180 270 360 tv
+x1osfhw	9	14	        exercise questions 1 2 
+x1osftp	9	15	        exercise questions 3 5 
+x1osfyl	9	16	        exercise questions 1 6 
+x1osg90	9	17	        exercise questions 7 12 
+x1osgg1	9	18	        exercise questions 13 24 
+x23ibxg	10	1	        fundamental law of trigonometry part 1 tv
+x23iby3	10	2	        fundamental law of trigonometry part 2 tv
+x23ibyc	10	3	        deductions from fundamental law part 1 tv
+x23ibyp	10	4	        deductions from fundamental law part 2 tv
+x23ibz5	10	5	        trigonometric ratios of allied angles part 1 tv
+x23ic7g	10	6	        trigonometric ratios of allied angles part 2 tv
+x23irmh	10	7	        exercise questions 1 tv
+x23r7sg	10	8	        exercise questions 2 tv
+x23r7t4	10	9	        exercise questions 3 tv
+x23r7tl	10	10	        exercise questions 4 tv
+x23r7u9	10	11	        exercise questions 5 tv
+x23r9nm	10	12	        exercise questions 1 2 tv
+x23r9nx	10	13	        exercise questions 3 4 tv
+x23r9oa	10	14	        exercise questions 4 iv 5 tv
+x23r9on	10	15	        exercise questions 6 7 tv
+x23r9ov	10	16	        exercise questions 8 tv
+x23radf	10	17	        exercise questions 9 10 tv
+x23rafl	10	18	        exercise questions 11 12 tv
+x23rahb	10	19	        exercise questions 13 14 tv
+x23ical	10	20	        double angle identities tv
+x23icay	10	21	        half angle and triple angle identities tv
+x23rbic	10	22	        exercise questions 1 3 tv
+x23rbim	10	23	        exercise questions 4 7 tv
+x2w5tv8	10	24	        exercise questions 8 11 
+x23rbj3	10	25	        exercise questions 12 13 tv
+x23rbj9	10	26	        exercise questions 14 15 tv
+x23icbf	10	27	        sum difference and product of sines and cosines tv
+x23rbjr	10	28	        exercise questions 1 2 tv
+x29cvg6	11	1	        domain and ranges of trigonometric functions 
+x23icbt	11	2	        domain and ranges of trigonometric functions part 2 tv
+x23icfm	11	3	        period of trigonometric functions tv
+x23rbm0	11	4	        exercise questions 1 15 tv
+x23ich4	11	5	        graphs of trigonometric functions tv
+x23icj5	11	6	        graphs of consine and tangent tv
+x29cvtb	11	7	        exercise questions 1 
+x29cvtj	11	8	        exercise questions 2 
+x29cvtv	11	9	        exercise questions 3 
+x29ccn9	12	1	        introduction 
+x29ccnr	12	2	        tables of trigonometric ratios 
+x29ccpe	12	3	        exercise questions 1 2 
+x29ccpp	12	4	        solution of right triangle 
+x29ccq5	12	5	        exercise questions 1 7 
+x29ce5k	12	6	        heights and distances 
+x29ce5s	12	7	        exercise questions 1 4 
+x29ce67	12	8	        exercise questions 5 8 
+x29ce6j	12	9	        exercise questions 9 15 
+x29ce72	12	10	        oblique triangles and law of cosine 
+x29cfgf	12	11	        oblique triangles and law of sine 
+x29cfgn	12	12	        oblique triangles and law of tangents 
+x29cfh9	12	13	        the sine of half angle in term of sides 
+x29cfip	12	14	        the cosine and tangent of half angle in term of sides 
+x29cfjs	12	15	        exercise questions 1 5 
+x29chg1	12	16	        solution of oblique triangle case ll 
+x29chgp	12	17	        solution of oblique triangle case lll 
+x29chhz	12	18	        exercise questions 1 10 
+x29chit	12	19	        exercise questions 1 13 
+x29chj4	12	20	        area of triangle case l 
+x29cigk	12	21	        area of triangle case ll and case lll 
+x29cii2	12	22	        exercise questions 1 6 
+x29ciim	12	23	        circles connected with triangle circum circle part 1 avi 
+x29ciiv	12	24	        circles connected with triangle circum circle part 2 avi 
+x29cij4	12	25	        circles connected with triangle deduction of law of sines avi 
+x29civp	12	26	        circles connected with triangle in circle avi 
+x29cl2e	12	27	        circles connected with triangle escribed circle 
+x29cl2w	12	28	        exercise questions 1 2 
+x29cl3e	12	29	        exercise questions 3 4 
+x29cl3v	12	30	        exercise questions 5 6 
+x29cl4c	12	31	        exercise questions 7 8 
+x29cln5	12	32	        exercise questions 9 12 
+x29cymv	13	1	        inverse trigonometric functions inverse sine 
+x29cyos	13	2	        inverse trigonometric functions inverse cosine and inverse tangent 
+x29cypj	13	3	        other inverse trigonometric functions and their domains 
+x2w5s2q	13	4	        exercise questions 1 3 
+x29cyqr	13	5	        addition and subtraction of inverse trigonometric functions 
+x29cysm	13	6	        exercise questions 1 7 
+x29cz4t	13	7	        exercise questions 8 20 
+x29d5qc	14	1	        solution of general trigonometric equations 
+x29d5qk	14	2	        exercise questions 1 8 
+x29d5qm	14	3	        exercise questions 9 20 
