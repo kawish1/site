@@ -1,17 +1,14 @@
-<table style="width=100%">
+<div class="btn-toolbar">
 {{$dir := .Get "dir"}}
 {{ $url := .Get "baseurl" }}
-
 {{ $files := readDir $dir }}
     {{ range $files }}
       {{ if (eq  "le" (substr .Name 0 2) )}}
-            <tr>
-                <td>
-                    {{$str := replace $dir "content/" ""}}
-                    <a href="{{$url}}{{$str}}{{ (replace .Name ".md" "") | urlize }}/" type=button class="btn btn-lg btn-success"> {{.Name}}</a>
-                </td>
-            </tr>
+        {{$str := replace $dir "content/" ""}}
+        <a href="{{$url|urlize}}{{$str|urlize}}{{ (replace .Name ".md" "") | urlize }}/" type=button class="btn btn-lg btn-success">
+           {{ replace .Name ".md" ""}}
+         <b class="glyphicon glyphicon-blackboard"></b>
+         </a>
              {{end}}
      {{ end }}
- </table>
-
+</div>

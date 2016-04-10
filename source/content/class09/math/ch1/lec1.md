@@ -16,5 +16,6 @@ pagetype = "classpage"
 
 +++
 This is a lecture page.
-{{< youtube FfJ5XG5i2aw >}}
+
+{{< dailymotion x16qi4d >}}
 

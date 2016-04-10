@@ -1,8 +1,21 @@
 {{ partial "header.html" .}}
 
-<h1> Home page </h1>
-<p> Welcome to here </p>
-    {{ range $index, $element := .Data.Pages.ByWeight }}
-    <p>  <a href="{{ .Permalink }}" type="button" class="btn btn-lg btn-success" > {{.Title}} </a> </p>
-    {{end}}
+<div class="container" >
+  <h1> Welcome to here </h1>
+  <p class="lead">  Courses for the following Classes are available </p>
+  <h2> Select Class</h2>
+  <div class="container">
+    <div class="btn-toolbar pull-left">
+        {{ range $index, $element := .Data.Pages.ByWeight }}
+          {{if (eq .Params.homepage "show")}}
+            <a href="{{ .Permalink }}" type="button" class="btn btn-lg btn-success" >
+              <b class="glyphicon glyphicon-user"></b>
+              {{.Title}}
+            </a>
+          {{end}}
+        {{end}}
+    </div>
+  </div>
+
+</div>
 {{ partial "footer.html" .}}

@@ -18,6 +18,6 @@ pagetype = "classpage"
 Hello.
 This is a course page.
 Select chapter. 
-{{< dirindex dir="content/class09/math/" baseurl="/" >}}
 
 
+{{< dirindex dir="content/class09/math/" baseurl="/">}}

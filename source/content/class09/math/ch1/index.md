@@ -18,4 +18,4 @@ pagetype = "classpage"
 
 Select Lecture.
 
-{{< fileindex dir="content/class09/math/ch1/" baseurl="/" >}}
+{{< fileindex dir="content/class09/math/ch1/" baseurl="/">}}

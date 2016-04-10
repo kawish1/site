@@ -1,9 +1,13 @@
 
 {{ partial "header.html" .}}
-
-<h1> {{ .Title }} </h1>
-<h2> The Template rendered is class.html. </h2>
-
- {{ .Content }} 
-    
+<ul class="breadcrumb">
+  <li>
+    <a href="{{.Site.BaseURL}}" class="btn-lg btn-success"> Home </a> 
+  </li>
+ </ul>
+<div class="container">
+  <h1> {{ .Title }} </h1>
+  <h2> The Template rendered is class.html. </h2>
+  {{ .Content }}
+</div>
 {{partial  "footer.html" .}}

@@ -1,16 +1,15 @@
-<table style="width=100%">
+<h2> Select Course</h2>
+<div class="btn-toolbar">
 {{$dir := .Get "dir"}}
 {{ $url := .Get "baseurl" }}
-
 {{ $files := readDir $dir }}
-    {{ range $files }}
-        {{ if .IsDir }}
-            <tr>
-                <td> 
-                    {{$str := replace $dir "content/" ""}}
-                    <a href="{{$url}}{{$str}}{{.Name | urlize }}/index.html" type=button class="btn btn-lg btn-success"> {{.Name}}</a>
-                </td>
-            </tr>
-        {{end}}
-     {{ end }}
-</table>
+{{ range $files }}
+    {{ if .IsDir }}
+      {{$str := replace $dir "content/" ""}}
+        <a href="{{$url|urlize}}{{$str |urlize}}{{.Name | urlize }}/index.html" type=button class="btn btn-lg btn-success">
+          {{.Name}}
+          <b class="glyphicon glyphicon-book"></b>
+        </a>
+      {{end}}
+{{ end }}
+</div>
