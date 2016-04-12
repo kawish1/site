@@ -4,18 +4,23 @@
   <h1> Welcome to here </h1>
   <p class="lead">  Courses for the following Classes are available </p>
   <h2> Select Class</h2>
-  <div class="container">
-    <div class="btn-toolbar pull-left">
+    <div class="container-fluid">
+        <div class="row">
         {{ range $index, $element := .Data.Pages.ByWeight }}
           {{if (eq .Params.homepage "show")}}
+          <div class="col-sm-4">
+            <div class="thumbnail">
             <a href="{{ .Permalink }}" type="button" class="btn btn-lg btn-success" >
               <b class="glyphicon glyphicon-user"></b>
               {{.Title}}
             </a>
+            <img src="..." alt="...">
+            <p> Some text here </p>
+            </div>
+          </div>
           {{end}}
         {{end}}
+        </div>
     </div>
-  </div>
-
 </div>
 {{ partial "footer.html" .}}
