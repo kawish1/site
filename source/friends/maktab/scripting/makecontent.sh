@@ -15,8 +15,8 @@ do
     #echo "Line Count = $lc"
     mkdir -p Chapter$chapter
     cp template.md ./Chapter$chapter/Lecture${lecture}.md
-    link_shortcode="Link={{< dailmotion ${string[0]} >}}"
-    
+    link_shortcode="{{< dailymotion ${string[0]} >}}"
+
     #Now we will call ed editor and feed it commands using here document.
 
 ed -s ./Chapter$chapter/Lecture${lecture}.md << EOF

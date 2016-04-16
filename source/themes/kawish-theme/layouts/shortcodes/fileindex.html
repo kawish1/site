@@ -3,12 +3,11 @@
 {{ $url := .Get "baseurl" }}
 {{ $files := readDir $dir }}
     {{ range $files }}
-      {{ if (eq  "le" (substr .Name 0 2) )}}
         {{$str := replace $dir "content/" ""}}
-        <a href="{{$url|urlize}}{{$str|urlize}}{{ (replace .Name ".md" "") | urlize }}/" type=button class="btn btn-lg btn-success">
-           {{ replace .Name ".md" ""}}
+        {{$lecture := replace .Name ".md" ""}}
+        <a href="{{$url|urlize}}{{$str|urlize}}{{ $lecture }}/" type=button class="btn btn-lg btn-success">
+           {{ $lecture}}
          <b class="glyphicon glyphicon-blackboard"></b>
          </a>
              {{end}}
-     {{ end }}
 </div>

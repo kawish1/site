@@ -1,26 +1,29 @@
 {{ partial "header.html" .}}
 
 <div class="container" >
-  <h1> Welcome to here </h1>
-  <p class="lead">  Courses for the following Classes are available </p>
-  <h2> Select Class</h2>
+  <h1 class="text-success"> Welcome to Kawish. </h1>
+  <p class="lead text-success">  Kawish aims at building a library of video lessons
+  and making them accessible. </p>
+  <p class="lead text-primary">Courses for the below classes are available </p>
+  <h2 class="text-primary"> Select Class</h2>
+  <p class="text-info"> (Click the green buttons)</p>
     <div class="container-fluid">
         <div class="row">
         {{ range $index, $element := .Data.Pages.ByWeight }}
           {{if (eq .Params.homepage "show")}}
           <div class="col-sm-4">
+
             <div class="thumbnail">
             <a href="{{ .Permalink }}" type="button" class="btn btn-lg btn-success" >
-              <b class="glyphicon glyphicon-user"></b>
-              {{.Title}}
+               {{ .Title}}
+                <b class="glyphicon glyphicon-user"></b>
             </a>
-            <img src="..." alt="...">
-            <p> Some text here </p>
             </div>
           </div>
           {{end}}
         {{end}}
-        </div>
     </div>
+    </div>
+    
 </div>
 {{ partial "footer.html" .}}

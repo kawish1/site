@@ -2,6 +2,6 @@
 baseurl = "http://kawish1.github.io"
 languageCode = "en-us"
 title = "Kawish Website"
-
+theme = "kawish-theme"
 [taxanomies]
      tag = "tags"

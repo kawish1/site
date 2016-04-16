@@ -2,25 +2,17 @@
 {{ partial "header.html" .}}
 <div class="container">
 <ul class="breadcrumb">
-    <li> <font color="blue"> <h3> Go to </h3> </font> </li>
-  <li>
-    <a href="{{.Site.BaseURL}}" class="btn-lg btn-primary"> Home </a>
-  </li>
-  </li>
-
-  </li>
-  <a href="../../../" class="btn-lg btn-primary"> Class</a>
-  <li>
-    <a href="../../" class="btn-lg btn-primary"> Course</a>
-  </li>
-  <li>
-    <a href="../" class="btn-lg btn-primary"> Chapters</a>
-  </li>
+    <li> <font color="blue"> Go to </font> </li>
+    <li>  <a href="{{.Site.BaseURL}}" class="btn-lg btn-primary"> Home </a> </li>
+    <li>  <a href="../../../" class="btn-lg btn-primary"> Class </a> </li>
+    <li>  <a href="../../" class="btn-lg btn-primary"> Course</a> </li>
+    <li> <a href="../" class="btn-lg btn-primary"> Chapters</a> </li>
  </ul>
 
-<h1> {{ .Title }} </h1>
-<h2> The Template rendered is lecture.html </h2>
-
 {{ .Content }}
+
+<h2> Debugging info</h2>
+<p> Title: {{ .Title }} </p>
+<p> The Template rendered is lecture.html using type "class"</p>
 </div>
 {{partial "footer.html" .}}
