@@ -20,7 +20,12 @@ pagetype = "classpage"
 edmeta = "ED META"
 
 +++
-## Chapter 1 Lecture 1: introduction to number systems
+## Chapter 1 Lecture 1: Introduction to Number Systems
+<p class="lead"> In this chapter, you will learn about
+ <code>Sets of Numbers</code>. You will learn about 
+ <code> Natural Numbers</code>, <code>Whole Numbers</code>, <code>Integers</code>, <code>Rational Numbers</code>, 
+ <code>Irrational Numbers,</code> and <code>Real Numbers.</code> </p>
+
 {{< dailymotion x16qi4d >}}
 {{< nextprev next="../../chapter1/lecture2/"     prev="../../chapter14/lecture3/"  >}}
 
