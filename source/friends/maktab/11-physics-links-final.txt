@@ -1,0 +1,125 @@
+x133sy4	1 1	1 2	11 10	   basic and derived quantities and units
+x133wpn	1 2	1 3	1 1	   supplementry units and dimensions
+x133qxh	1 3	1 4	1 2	   scientific notation
+x133ubn	1 4	2 1	1 3	   significent digits
+x133dq1	2 1	2 2	1 4	   basic concepts of vectors
+x14oay9	2 2	2 3	2 1	   vectors
+x14ohls	2 3	2 4	2 2	   rectangular components
+x14oi3v	2 4	2 5	2 3	   vector addition
+x14oipy	2 5	2 6	2 4	   scalar product
+x14ojf0	2 6	2 7	2 5	   vector product
+x14ojlm	2 7	2 8	2 6	   torque
+x14ol5b	2 8	3 1	2 7	   equilibrium
+x13qmwn	3 1	3 2	2 8	   displacement time graph
+x13ben7	3 2	3 3	3 1	   velocity time graph
+x13bdl9	3 3	3 4	3 2	   1st and 2nd law of motion
+x13bbla	3 4	3 5	3 3	   newton s 3rd law of motion
+x13bdwi	3 5	3 6	3 4	   momentum
+x13bc17	3 6	3 7	3 5	   example of gun
+x13bc1n	3 7	3 7	3 6	   example of rocket
+x172dcw	3 7	3 8	3 7	   example of rocket tv
+x13bblr	3 8	3 9	3 7	   conservation of momentum
+x13bblk	3 9	3 10	3 8	   billistic flight
+x13beha	3 10	3 11	3 9	   projectile motion and projectile velocity
+x13bdag	3 11	3 12	3 10	   height of projectile motion
+x13ben4	3 12	3 13	3 11	   time of projectile motion
+x13bemw	3 13	4 1	3 12	   range of projectile motion
+x11dl8r	4 1	4 2	3 13	   introduction of work
+x11cbht	4 2	4 3	4 1	   conservative and non conservative forces
+x11kaws	4 3	4 4	4 2	   work done by variable and constant force
+x11kbu8	4 4	4 5	4 3	   work done by gravitational force
+x11gzm2	4 5	4 6	4 4	   power
+x11fqym	4 6	4 7	4 5	   introduction of energy
+x11kcl1	4 7	4 8	4 6	   work energy principle
+x11gy6b	4 8	4 9	4 7	   law of conservation of energy
+x11ch7z	4 9	4 10	4 8	   gravitation
+x11catj	4 10	4 11	4 9	   absolute gravitational potential energy
+x11cg8z	4 11	4 12	4 10	   escape velocity
+x133xof	4 12	5 1	4 11	   non conventional energy sources
+x133yml	5 1	5 2	4 12	   basic concept
+x11t8zq	5 2	5 3	5 1	   angular displacement
+x298jlh	5 3	5 4	5 2	   angular velocity
+x298dwl	5 4	5 5	5 3	   angular acceleration
+x1341kf	5 5	5 6	5 4	   centripetal force
+x1340yr	5 6	5 7	5 5	   centripetal acceleration
+x1342ai	5 7	5 8	5 6	   angular quantities
+x13438o	5 8	5 9	5 7	   moment of inertia
+x11t93y	5 9	5 10	5 8	   angular momentum
+x13442x	5 10	5 11	5 9	   types of angular momentum
+x1344uq	5 11	5 12	5 10	   conservation of angular momentum
+x1345e8	5 12	5 13	5 11	   rotational kinetic energy
+x1346bv	5 13	5 14	5 12	   rotationaol kinetic energy for hoop disc sphere
+x1346vg	5 14	5 15	5 13	   orbital velocity
+x13475u	5 15	5 16	5 14	   setallites
+x13480t	5 16	6 1	5 15	   weightlessness conditons
+x11vsmo	6 1	6 2	5 16	   fluids
+x11vs4x	6 2	6 3	6 1	   equation of countinuity
+x11vt1k	6 3	6 4	6 2	   pascal s law
+x11vrkr	6 4	6 5	6 3	   bernoulli s equation
+x11w34t	6 5	6 6	6 4	   torricelli s theorem
+x11w3sq	6 6	6 7	6 5	   venturi relation
+x11vtf3	6 7	7 1	6 6	   relation between pressure and speed
+x11zv6c	7 1	7 2	6 7	   oscillatory motion
+x1348jk	7 2	7 3	7 1	   types of oscillatory motion
+x11zr9x	7 3	7 4	7 2	   amplitude vibration and time period
+x1200pk	7 4	7 5	7 3	   simple harmonic motion
+x11zzkv	7 5	7 6	7 4	   simple harmonic motion graph
+x11zxxl	7 6	7 7	7 5	   shm compared with uniform circular motion
+x11zsv6	7 7	7 8	7 6	   displacement of projection
+x1230oo	7 8	7 9	7 7	   velocity of projection
+x11zp2l	7 9	7 10	7 8	   accelaration of projection
+x1203rv	7 10	7 11	7 9	   time period of spring
+x11zpwy	7 11	7 12	7 10	   pendulum
+x1202b2	7 12	7 13	7 11	   time period of pendulum
+x122yf7	7 13	7 14	7 12	   types of energies in spring
+x11zu4w	7 14	7 15	7 13	   law of consevation of energy in oscillatory motion
+x1204ou	7 15	8 1	7 14	   resonance
+x135nso	8 1	8 2	7 15	   introduction of waves
+x135p4e	8 2	8 3	8 1	   introduction of waveshow to find speed of waves
+x135psm	8 3	8 4	8 2	   superposition of waves
+x135qni	8 4	8 5	8 3	   sound
+x138sh0	8 5	8 6	8 4	   power formula of speed and sound
+x12af8n	8 6	8 8	8 5	   laplace correction
+x135rm5	8 8	8 9	8 6	   newton formula of speed of sound
+x135s9g	8 9	8 10	8 8	   interference of waves
+x135tbn	8 10	8 11	8 9	   beats
+x135u80	8 11	8 12	8 10	   stationary waves
+x135vf6	8 12	8 14	8 11	   stationary waves produced with both ends of pipe
+x135xce	8 14	8 15	8 12	   a source moving away and towards the observer
+x136033	8 15	8 16	8 14	   when an obsever is moving towards stationary waves
+x13614o	8 16	8 17	8 15	   when an observer is moving away
+x13624f	8 17	8 18	8 16	   applications of doppler effect
+x136324	8 18	9 1	8 17	   sonar system and radar speed trap
+x136x99	9 1	9 2	8 18	   wavefront
+x136xry	9 2	9 3	9 1	   hygen principal
+x136ycf	9 3	9 4	9 2	   interference of light
+x136zq0	9 4	9 5	9 3	   proved formula of path difference
+x1370hn	9 5	9 6	9 4	   young s double slit expirment
+x1372kx	9 6	9 7	9 5	   working of young s expirment
+x2gxn8h	9 7	9 8	9 6	   position of fringes
+x1374jc	9 8	9 9	9 7	   fringe width
+x1375gq	9 9	9 10	9 8	   thin film
+x13763p	9 10	9 11	9 9	   newton s rings
+x13779t	9 11	9 12	9 10	   diffraction of light
+x1378w7	9 12	9 13	9 11	   differaction through narrow slit
+x1379ni	9 13	9 14	9 12	   differaction gratting
+x137aty	9 14	9 15	9 13	   bragge s law
+x13bc75	9 15	9 16	9 14	   polarization
+x2h3h78	9 16	10 1	9 15	   spectrometer
+x138mj7	10 1	10 2	9 16	   lens formula
+x138mk6	10 2	10 3	10 1	   simple microscope
+x138o9d	10 3	10 4	10 2	   compound microscope tv
+x138pbz	10 4	10 5	10 3	   telescope
+x13bdo6	10 5	10 6	10 4	   michelson experiment of speed of light tv
+x138qbe	10 6	10 7	10 5	   reflection refraction refractive index
+x138r2u	10 7	10 8	10 6	   total internal reflection
+x2h3j2k	10 8	11 1	10 7	   mickelson s interferrometer
+x12ah68	11 1	11 2	10 8	   pressure of gases
+x12ab7b	11 2	11 3	11 1	   detuction of boyles law
+x12ad4l	11 3	11 4	11 2	   first law of thermodynamics
+x12ae7s	11 4	11 5	11 3	   isothermal and adiabatic process
+x1349is	11 5	11 7	11 4	   2nd law of thermodynamics
+x12ai2a	11 7	11 8	11 5	   specific heat
+x128xmo	11 8	11 9	11 7	   cp cv r
+x12ac1v	11 9	11 10	11 8	   entropy
+x128wnw	11 10	1 1	11 9	   work done on the system and by the system

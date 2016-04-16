@@ -1,0 +1,185 @@
+x13b8wt	1 1	1 2	11 19	   introduction
+x13b8yn	1 2	1 3	1 1	   molecules and ions
+x13bb77	1 3	1 4	1 2	   isotopes
+x13bb8k	1 4	1 5	1 3	   mass spectrpmetry
+x175n4n	1 5	1 6	1 4	   empirical formula 1 tv
+x175nxc	1 6	1 7	1 5	   empirical formula 2 tv
+x273g46	1 7	1 8	1 6	   molecular formula
+x176npl	1 8	1 9	1 7	   mole
+x176jha	1 9	1 10	1 8	   avogadro s number tv
+x176k2x	1 10	1 11	1 9	   molar volume
+x176kxw	1 11	1 12	1 10	   stoichiometry
+x176lvs	1 12	1 13	1 11	   limiting reactant
+x176mfe	1 13	2 1	1 12	   limiting reactant
+x13gq8f	2 1	2 1	1 13	   introduction
+x16pg2l	2 1	2 2	2 1	   introduction of biochemistry and tv
+x13gqf6	2 2	2 3	2 1	   filtration
+x13gqvt	2 3	2 4	2 2	   crystallization
+x13gs33	2 4	2 5	2 3	   sublimation solvent extraction
+x13gsp2	2 5	3 1	2 4	   chromatography
+x13gu5r	3 1	3 2	2 5	   properties
+x13gwlq	3 2	3 3	3 1	   boyles law
+x13gwlx	3 3	3 4	3 2	   chales law
+x13gwm3	3 4	3 5	3 3	   gas equation
+x13gwm6	3 5	3 6	3 4	   avogadros law
+x13h2b9	3 6	3 7	3 5	   dalton s law
+x13h75c	3 7	3 8	3 6	   graham s law
+x13h2c4	3 8	3 9	3 7	   kinetic theory
+x13h2ck	3 9	3 10	3 8	   temp interpretation
+x13h2d8	3 10	3 11	3 9	   liquefaction
+x13h772	3 11	3 12	3 10	   ideal gases
+x13h77e	3 12	4 1	3 11	   plasma
+x13h8ed	4 1	4 2	3 12	   introduction
+x13h8en	4 2	4 3	4 1	   hydrogen bonding
+x13h8fc	4 3	4 4	4 2	   evaporation
+x13h8fn	4 4	4 5	4 3	   boiling point
+x13h8g5	4 5	4 6	4 4	   liquid crystals
+x13hbi1	4 6	4 7	4 5	   solids introduction
+x13hbj9	4 7	4 8	4 6	   crystal lattice
+x13hc14	4 8	4 9	4 7	   classification of solids
+x137zs1	4 9	4 10	4 8	   covalent solids
+x138upe	4 10	4 11	4 9	   molecular solids
+x138yws	4 11	4 12	4 10	   metallic solids part 1
+x1398zw	4 12	4 13	4 11	   metallic solids part 2
+x139ah4	4 13	5 1	4 12	   determination of avogadros number
+x139b7t	5 1	5 2	4 13	   introduction
+x139iqv	5 2	5 3	5 1	   discovery of electron
+x13dls2	5 3	5 4	5 2	   discovery of proton tv
+x13dp87	5 4	5 5	5 3	   discovery of neutron tv
+x13dqat	5 5	5 6	5 4	   determination of e m of electron tv
+x13ds1d	5 6	5 7	5 5	   millikan oil drop method tv
+x13fr04	5 7	5 8	5 6	   rutherford atomic model tv
+x13fsdm	5 8	5 9	5 7	   planck s quantun theory tv
+x13g1go	5 9	5 10	5 8	   bohr atomic model part 1 tv
+x13g3op	5 10	5 11	5 9	   bohr atomic model part 2 tv
+x13heh5	5 11	5 12	5 10	   spectrum tv
+x13hq68	5 12	5 13	5 11	   hydrogen spectrum tv
+x13huwr	5 13	5 14	5 12	   defects of bohr atomic model tv
+x13rjlf	5 14	5 15	5 13	   x rays tv
+x13rlu2	5 15	5 16	5 14	   dual nature of matter tv
+x13rnwc	5 16	5 17	5 15	   experimental verification of dual nature tv
+x13rqim	5 17	5 18	5 16	   heisenberg s uncertainity principle tv
+x13rrho	5 18	5 19	5 17	   concept of orbital tv
+x13sgps	5 19	5 20	5 18	   quantum numbers tv
+x13shca	5 20	5 21	5 19	   principal quantum number tv
+x13tvpj	5 21	5 22	5 20	   azimuthal quantum number tv
+x13u18h	5 22	5 23	5 21	   magnetic quantum number tv
+x13u3zu	5 23	5 24	5 22	   spin quantum number tv
+x13u5qp	5 24	5 25	5 23	   shapes of orbitals tv
+x13u87w	5 25	6 1	5 24	   electronic distribution tv
+x158i7u	6 1	6 2	5 25	   introduction tv
+x158ij7	6 2	6 3	6 1	   causes of chemical bonding tv
+x1595ql	6 3	6 4	6 2	   energetics of bond formation tv
+x1596ik	6 4	6 5	6 3	   atomic sizes tv
+x1597fz	6 5	6 6	6 4	   ionic radii tv
+x16qmdh	6 6	6 6	6 5	   covalent radii tv
+x2rxjb5	6 6	6 7	6 6	   covalent radii
+x16qmic	6 7	6 8	6 6	   ionization energy tv
+x16qmpm	6 8	6 9	6 7	   higher ionization energy tv
+x16qmui	6 9	6 10	6 8	   electron affinity tv
+x16shc2	6 10	6 11	6 9	   electronegativity tv
+x16shxl	6 11	6 12	6 10	   ionic bond tv
+x16sicv	6 12	6 13	6 11	   covalent bond tv
+x16yuw4	6 13	6 14	6 12	   coordinate covalent bond tv
+x16yvsr	6 14	6 15	6 13	   limitations of lewis model tv
+x16ywfj	6 15	6 16	6 14	   vsepr 1 tv
+x16yxff	6 16	6 17	6 15	   vsepr 2 tv
+x16z099	6 17	6 18	6 16	   valence bond theory tv
+x175ost	6 18	6 19	6 17	   atomic orbital hybridization tv
+x175p3r	6 19	6 20	6 18	   sp3 hybridization
+x175pfg	6 20	6 21	6 19	   sp2 hybridization
+x175pnn	6 21	6 22	6 20	   sp hybridization
+x175puw	6 22	6 23	6 21	   molecular orbital theory
+x175q2x	6 23	6 24	6 22	   energies of molecular orbitals
+x175qaq	6 24	6 25	6 23	   molecular orbital structures
+x17hvk5	6 25	6 26	6 24	   bond energy
+x17hws1	6 26	6 27	6 25	   ionic character and bond energy
+x17hx4q	6 27	6 28	6 26	   bond length
+x17hy45	6 28	6 29	6 27	   dipole moment
+x17th6k	6 29	6 30	6 28	   dipole moment and molecular structure
+x17thzn	6 30	7 1	6 29	   effect of bonding
+x17ttf4	7 1	7 2	6 30	   chapter introduction
+x17ttq5	7 2	7 3	7 1	   introduction
+x17tuvt	7 3	7 4	7 2	   spontaneous and non spontaneous reactions
+x17tw0y	7 4	7 5	7 3	   system surroundings and state function
+x17wcyq	7 5	7 6	7 4	   internal energy
+x17wd88	7 6	7 7	7 5	   first law of thermo dynamics
+x17wdjh	7 7	7 8	7 6	   enthalpy
+x17wdqv	7 8	7 9	7 7	   different enthalpies 1
+x17we5m	7 9	7 10	7 8	   different enthalpies 2
+x17wehn	7 10	7 11	7 9	   glass calorimeter
+x17wgiv	7 11	7 12	7 10	   bomb calorimeter
+x17y2ih	7 12	7 13	7 11	   hess s law of heat summation
+x17y2vq	7 13	8 1	7 12	   born haber cylce
+x17y32r	8 1	8 2	7 13	   chapter introduction
+x17y38h	8 2	8 3	8 1	   reversible and irreversible reaction
+x17y3hy	8 3	8 4	8 2	   state of chemical equilibrium
+x17y40o	8 4	8 5	8 3	   law of mass action
+x18bv14	8 5	8 6	8 4	   units of equilibrium constant
+x18bu5d	8 6	8 7	8 5	   equilibrium constant for some reactions
+x18bvjz	8 7	8 8	8 6	   relation between equilibrium constants
+x197vyw	8 8	8 9	8 7	   applications of equilibrium constant 1
+x197w9e	8 9	8 10	8 8	   applications of equilibrium constant 2
+x197wt0	8 10	8 11	8 9	   le chatelier s principle 1
+x197x93	8 11	8 12	8 10	   le chatelier s principle 2
+x197xkj	8 12	8 13	8 11	   le chatelier s principle 3
+x19q49w	8 13	8 14	8 12	   industrial applications of chemical equilibrium
+x19q5fv	8 14	8 15	8 13	   ionic product of water
+x19q602	8 15	8 16	8 14	   ionization constant of acid
+x19q6cc	8 16	8 17	8 15	   ionization constant of bases
+x19q6se	8 17	8 18	8 16	   lowry bronsted concept of acid and bases
+x19sdpz	8 18	8 19	8 17	   common ion effect
+x19sflb	8 19	8 20	8 18	   buffer solutions
+x19sgf1	8 20	8 21	8 19	   ph of buffer solutions
+x19sh2h	8 21	8 22	8 20	   buffer capacity
+x19shx2	8 22	8 23	8 21	   solubility product
+x19sivm	8 23	9 1	8 22	   applications of solubility product
+x1ajcjn	9 1	9 2	8 23	   chapter introduction
+x1ajd5r	9 2	9 3	9 1	   concept of solution
+x1ajdv3	9 3	9 4	9 2	   molarity and molality
+x1ajeeh	9 4	9 5	9 3	   mole fraction and ppm
+x1b1ilf	9 5	9 6	9 4	   interconversion of concentration units
+x1b1k11	9 6	9 7	9 5	   types of solution 1
+x1dalf7	9 7	9 8	9 6	   types of solution 2
+x1dangy	9 8	9 9	9 7	   raoult s law
+x1daosj	9 9	9 10	9 8	   raoult s law with volatile components
+x1efsgs	9 10	9 11	9 9	   vapor pressure of ideal solutions
+x1efudy	9 11	9 12	9 10	   vapor pressure of non ideal solutions
+x1efwsw	9 12	9 13	9 11	   solubility and solubility curve
+x1enqvy	9 13	9 14	9 12	   colligative properties
+x1ensgb	9 14	9 15	9 13	   lowering of vapor pressure
+x1f03jq	9 15	9 16	9 14	   elevation of boiling point
+x1f05co	9 16	10 1	9 15	   measurement of boliing point elevation
+x2pexzk	10 1	10 2	9 16	   redox reactions and oxidation number
+x2pexzx	10 2	10 3	10 1	   balancing of redox equations by oxidation number method part 1
+x2pey05	10 3	10 4	10 2	   balancing of redox equations by oxidation number method part 2
+x2pey0g	10 4	10 5	10 3	   ion electron method in an acidic medium
+x2pey0x	10 5	10 6	10 4	   ion electron method in a basic medium
+x2peyjn	10 6	10 7	10 5	   fundamentals of electrolytic conduction
+x2peykd	10 7	10 8	10 6	   electrolytic cell
+x2peykn	10 8	10 9	10 7	   electrolysis of fused salts and aqueous solutions
+x2peykz	10 9	10 10	10 8	   electrolytic processes of industrial importance
+x2peyl8	10 10	10 11	10 9	   galvanic vs electrolytic cell
+x2pf2k9	10 11	10 12	10 10	   salt bridge and reversible cell functionality
+x2pf1sp	10 12	10 13	10 11	   electrode potential
+x2pf1sw	10 13	10 14	10 12	   standard hydrogen electrode she
+x2pf1tc	10 14	11 1	10 13	   measurement of electrode potential
+x2v32k4	11 1	11 2	10 14	   introduction to reaction kinetics
+x2uys1w	11 2	11 3	11 1	   rate of reaction
+x2uys2t	11 3	11 4	11 2	   instantaneous and average rate
+x2uys33	11 4	11 5	11 3	   specific rate constant
+x2v32kr	11 5	11 6	11 4	   order of reaction
+x2uys8e	11 6	11 7	11 5	   rate determining step
+x2uys8z	11 7	11 8	11 6	   method of initial rates
+x2uys97	11 8	11 9	11 7	   physical methods for rates of reactions
+x2v32l2	11 9	11 10	11 8	   chemical method for rate of reaction
+x2v32lj	11 10	11 11	11 9	   half life period
+x2v3f0s	11 11	11 12	11 10	   determining order using half life method
+x2v3f1n	11 12	11 13	11 11	   activation energy and reaction dynamics
+x2v3f1p	11 13	11 14	11 12	   potential energy diagram for reaction mechanism
+x2v3f1z	11 14	11 15	11 13	   effect of nature and concentration of reactants on reaction rates
+x2v3f2j	11 15	11 16	11 14	   effect of surface area and light on reaction rate
+x2v3f2w	11 16	11 17	11 15	   effect of temperature and arrhenius equation
+x2v3f35	11 17	11 18	11 16	   more on arrhenius equation
+x2v3f3i	11 18	11 19	11 17	   catalysis part 1
+x2v3f3z	11 19	1 1	11 18	   catalysis part 2

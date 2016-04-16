@@ -1,0 +1,90 @@
+x16mozf	12 1	12 2	21 6	   introduction of electrostatics tv
+x16mq6n	12 2	12 3	12 1	   electrostatics induction tv
+x16mrgk	12 3	12 4	12 2	   coulomb s law tv
+x16mtbk	12 4	12 5	12 3	   electric feild intensity and transfrmation of electric feild lines tv
+x16mxb8	12 5	12 6	12 4	   electroscope tv
+x16mw8q	12 6	12 7	12 5	   application s of electrostatics tv
+x16nam6	12 7	12 8	12 6	   electric flux tv
+x16ncab	12 8	12 9	12 7	   electric flux through a sphere having charge q at its centre tv
+x16nf83	12 9	12 10	12 8	   gauss s law and its applications part 1 tv
+x16nhlt	12 10	12 11	12 9	   gauss s law applications part 2 tv
+x16ninv	12 11	12 12	12 10	   electric potential tv
+x16o2pi	12 12	12 13	12 11	   relationship between e and electric potential v tv
+x16o39q	12 13	12 14	12 12	   millikan s oil drop method tv
+x16o4h5	12 14	12 15	12 13	   capacitors and its types tv
+x16o570	12 15	12 16	12 14	   combination of capacitors tv
+x16o7fx	12 16	12 17	12 15	   energy store in a capacitors tv
+x16o8bh	12 17	13 2	12 16	   dielectric tv
+x16o940	13 2	13 3	12 17	   drift velocity and current flowing through the mettle tv
+x16xbrm	13 3	13 4	13 2	   ohm s law tv
+x16xcy2	13 4	13 5	13 3	   resistance tv
+x16xf4i	13 5	13 6	13 4	   carbon resistor tv
+x16xg43	13 6	13 7	13 5	   combination of resistance tv
+x16xhj7	13 7	13 8	13 6	   rheostate tv
+x16y6zg	13 8	13 9	13 7	   electric power and power dissipation
+x16y89p	13 9	13 10	13 8	   eletromotive force
+x16yahz	13 10	13 11	13 9	   power output
+x16yv4d	13 11	13 12	13 10	   wheatstone bridge tv
+x16ywmv	13 12	14 1	13 11	   potentiometer tv
+x16qfys	14 1	14 1	13 12	   magnetic field due to current carrying wire tv
+x24stw8	14 1	14 2	14 1	   introduction of electromagnetism tv
+x16qb6a	14 2	14 2	14 1	   force on a current carrying conductor in a uniform magnetic field i tv
+x24stwn	14 2	14 3	14 2	   magnetic force on current carrying conductor tv
+x16qc2l	14 3	14 3	14 2	   force on a current carrying conductor in a uniform magnetic field ii tv
+x252zk2	14 3	14 4	14 3	   magnetic flux tv
+x16qd5y	14 4	14 4	14 3	   magnetic flux and flux density tv
+x2530ad	14 4	14 5	14 4	   ampere s law tv
+x16pyc1	14 5	14 5	14 4	   ampere s law tv
+x2530m4	14 5	14 6	14 5	   magnetic field in solenoid tv
+x16pyk0	14 6	14 6	14 5	   magnetic field due to current carrying solenoid tv
+x2530tf	14 6	14 7	14 6	   magnetic force on a moviing charge tv
+x25313m	14 7	14 9	14 6	   lorentz force tv
+x25318u	14 9	15 1	14 7	   galvanometer tv
+x2533ml	15 1	15 3	14 9	   electromagnetic induction tv
+x2533qp	15 3	15 4	15 1	   self induction tv
+x2533rx	15 4	15 5	15 3	   inductor tv
+x25374m	15 5	15 6	15 4	   inductance of solenoid tv
+x2537zh	15 6	15 8	15 5	   ac generator tv
+x2539lq	15 8	15 9	15 6	   dcmotor tv
+x253a63	15 9	16 1	15 8	   transformer tv
+x253aht	16 1	16 2	15 9	   introduction of a c tv
+x253ai7	16 2	16 3	16 1	   a c through resistance capacitors and inductors tv
+x253aim	16 3	16 4	16 2	   a c through rl series circuit tv
+x253aj7	16 4	16 5	16 3	   a c through rc series circuit tv
+x253ajr	16 5	16 6	16 4	   prove of xl and xc tv
+x253as6	16 6	16 7	16 5	   rlc series circuit tv
+x253at3	16 7	16 8	16 6	   parallel resonance circuit tv
+x253atn	16 8	16 9	16 7	   3 phase a c supply tv
+x253au4	16 9	16 10	16 8	   metal detector tv
+x253av6	16 10	17 1	16 9	   electromagnetic waves tv
+x2552z8	17 1	17 2	16 10	   properties and types of solids tv
+x25537f	17 2	17 3	17 1	   strain energy tv
+x25537l	17 3	17 4	17 2	   stress strain graph tv
+x25537t	17 4	17 5	17 3	   energy band theory tv
+x25537w	17 5	17 6	17 4	   semiconductors tv
+x25544s	17 6	17 7	17 5	   magnatization and demagnatization tv
+x255454	17 7	17 8	17 6	   domains tv
+x25545h	17 8	18 1	17 7	   hysteresis loop tv
+x2554z6	18 1	18 2	17 8	   pn junction tv
+x2554zf	18 2	18 3	18 1	   reversed and forward biasing tv
+x2554zn	18 3	18 5	18 2	   rectification tv
+x2554zx	18 5	18 6	18 3	   transistor tv
+x2555oy	18 6	18 7	18 5	   amplifier tv
+x25565z	18 7	18 8	18 6	   operational amplifier tv
+x255665	18 8	18 9	18 7	   operational amplifier as inverting and non inverting amplifier tv
+x25566f	18 9	18 10	18 8	   comparator and operational amplifier as a night switch tv
+x25566m	18 10	19 1	18 9	   digital system and logic gates tv
+x2ecdp2	19 1	19 2	18 10	   black body and its effect
+x2ecdp9	19 2	19 3	19 1	   photoelectric effect and photocell
+x2ecdpd	19 3	19 4	19 2	   pair production effect
+x2ece40	19 4	20 1	19 3	   compton s effect
+x2ec2cn	20 1	20 2	19 4	   introduction of atomic spectra
+x2ec2cz	20 2	20 3	20 1	   bohr s model of hydrogen atom
+x2ec2dh	20 3	20 4	20 2	   orbital rdius according to bohr s atomic model
+x2ec2dq	20 4	20 5	20 3	   orbital velocity according to bohr s atomic model
+x2ec2dx	20 5	21 2	20 4	   production of x rays
+x2gj57b	21 2	21 3	20 5	   mass defect
+x2gj57g	21 3	21 4	21 2	   fission reaction
+x2gj57p	21 4	21 5	21 3	   fusion reaction
+x2gj585	21 5	21 6	21 4	   radioactivity
+x2gj58g	21 6	12 1	21 5	   half life

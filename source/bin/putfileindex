@@ -1,0 +1,10 @@
+#!/bin/bash
+        str=$(getpath 3)
+
+grep -v fileindex index.md > tempindex
+replace="{{< fileindex dir=\"$str\" baseurl=\"/\">}}"
+
+echo $replace >> tempindex
+
+mv tempindex index.md
+

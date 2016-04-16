@@ -5,9 +5,11 @@
     {{ range $files }}
         {{$str := replace $dir "content/" ""}}
         {{$lecture := replace .Name ".md" ""}}
+        {{if or (in .Name "Le") (in .Name "le")}}
         <a href="{{$url|urlize}}{{$str|urlize}}{{ $lecture }}/" type=button class="btn btn-lg btn-success">
            {{ $lecture}}
          <b class="glyphicon glyphicon-blackboard"></b>
          </a>
-             {{end}}
+         {{end}}
+    {{end}}
 </div>

@@ -1,0 +1,289 @@
+x13b3vj	1 1	1 2	16 8	   the modern periodic table part 1
+x13b378	1 2	1 3	1 1	   the modern periodic table part 2
+x13b3yc	1 3	1 4	1 2	   atomic size periodic trends in elements part 1
+x13b37n	1 4	1 5	1 3	   electronegativity ionization energy electron affinity periodic trends
+x13b43c	1 5	1 6	1 4	   metallic non metallic character periodic trends in elements part 3
+x13b43j	1 6	1 7	1 5	   melting boiling points periodic trends in elements part 4
+x13b4b2	1 7	1 8	1 6	   oxidation states periodic trends in elements part 5
+x13b4hn	1 8	1 9	1 7	   electrical conductance periodic trends in elements part 6
+x13b4hq	1 9	1 10	1 8	   hydration energy periodic trends in elements part 7
+x13b4qf	1 10	1 11	1 9	   halides periodic trends in compounds part 1
+x1wtsic	1 11	1 12	1 10	   hydrides periodic trends in compounds part 2
+x1wtxdv	1 12	1 13	1 11	   oxides periodic trends in compounds part 3
+x1wu2s9	1 13	2 1	1 12	   position of hydrogen in modern periodic table
+x13b6n8	2 1	2 2	1 13	   general properties an overview
+x13b7ep	2 2	2 3	2 1	   peculiar behaviour of lithium beryllium part 1
+x13b7x5	2 3	2 4	2 2	   peculiar behaviour of lithium beryllium part 2
+x13b7xe	2 4	2 5	2 3	   trends in chemical properties of alkali metals
+x13b850	2 5	2 6	2 4	   trends in chemical properties of alkaline earth metals
+x13b88v	2 6	2 7	2 5	   oxides hydroxides of s block elements
+x13b89a	2 7	2 8	2 6	   carbonates nitrates sulfates of s block elements
+x13b9bw	2 8	2 9	2 7	   the down s cell for preparation of sodium
+x1wu3yh	2 9	3 1	2 8	   the diaphragm cell for preparation of sodium hydroxide
+x2e681j	3 1	3 2	2 9	   general introduction and occurance of group iiia elements
+x2e681x	3 2	3 3	3 1	   peculiar behaviour of boron
+x2e6836	3 3	3 4	3 2	   manufacturing of borax borax part 1
+x2e6846	3 4	3 5	3 3	   physical properties of borax borax part 2
+x2e684v	3 5	3 6	3 4	   chemical properties of borax borax part 3
+x2e68bm	3 6	3 7	3 5	   chemistry of borax bead test borax part 4
+x2e68ct	3 7	3 8	3 6	   structure of boric acids boric acids part 1
+x2e68e4	3 8	3 9	3 7	   physical properties and preparation of orthoboric acid boric acids pa
+x2e68ff	3 9	3 10	3 8	   chemical properties of orthboric acid boric acids part 3
+x2e68gd	3 10	3 11	3 9	   reaction with air and non metals aluminum part 1
+x2e6978	3 11	3 12	3 10	   reaction with acids and alkalies aluminum part 2
+x2e697z	3 12	3 13	3 11	   introduction to group iva elements
+x2e6986	3 13	3 14	3 12	   occurrence of carbon and siliconfsc chemistry book2 ch 3 lec 13 occu
+x2e698j	3 14	3 15	3 13	   oxides of carbon
+x2e699d	3 15	3 16	3 14	   physical properties of vitreous silica
+x2e6bn5	3 16	3 17	3 15	   structure of crystalline silica quartz
+x2e6bo2	3 17	3 18	3 16	   varieties of quartz crystals
+x2e6bpl	3 18	3 19	3 17	   sodium silicate and chemical garden silicates part 1
+x2e6br7	3 19	3 20	3 18	   aluminum magnesium and calcium silicates silicates part 2
+x2e6bs6	3 20	3 21	3 19	   structure silicones part 1
+x2e6cc3	3 21	3 22	3 20	   physical properties and uses silicones part 2
+x2e6cg4	3 22	3 23	3 21	   semi conductors part 1
+x2e6cht	3 23	3 24	3 22	   semi conductors part 2
+x2e6cio	3 24	4 1	3 23	   lead compounds in paints
+x2ir1hi	4 1	4 2	3 24	   introduction to group va elements
+x2ir1hz	4 2	4 3	4 1	   structure and preparation of nitrous oxide oxides of nitrogen part 1
+x2ir1i7	4 3	4 4	4 2	   physical and chemical properties of nitrous oxide oxides of nitrogen
+x2ir1ic	4 4	4 5	4 3	   structure and preparation of nitric oxide oxides of nitrogen part 3
+x2ir1ij	4 5	4 6	4 4	   chemical reactions of nitric oxide oxides of nitrogen part 4
+x2ir1iu	4 6	4 7	4 5	   structure and preparation of nitrogendioxide oxides of nitrogen part
+x2ir1j6	4 7	4 8	4 6	   physical properties of nitrogendioxide oxides of nitrogen part 6
+x2ir1jk	4 8	4 9	4 7	   chemical reactions of nitogendioxide oxides of nitrogen part 7
+x2ir1js	4 9	4 10	4 8	   nitrogenperoxide as an oxidizing agent oxides of nitrogen part 8
+x2ir1k5	4 10	4 11	4 9	   preparation and chemical reactions of nitrous acid oxyacids of nitro
+x2ir1lp	4 11	4 12	4 10	   nitrous acid as oxidizing agent oxyacids of nitrogen part 2
+x2ir1m1	4 12	4 13	4 11	   nitrous acid as reducing agent oxyacids of nitrogen part 3
+x2it23f	4 13	4 14	4 12	   birkelend and eyed s process for manufacturing nitric acid oxyacids
+x2ir1n0	4 14	4 15	4 13	   neutralization reactions of nitric acid oxyacids of nitrogen part 5
+x2it23r	4 15	4 16	4 14	   oxidation of nonmetals and metalloids by nitric acid oxyacids of nit
+x2ir1pf	4 16	4 17	4 15	   oxidation of metals by nitric acid oxyacids of nitrogen part 7
+x2ir1px	4 17	4 18	4 16	   oxidation of reducing agents by nitric acid oxy acids of nitrogen pa
+x2ir1qb	4 18	4 19	4 17	   aqua regia
+x2ir1qn	4 19	4 20	4 18	   occurrence and allotropes of phosphorus
+x2it3rm	4 20	4 21	4 19	   halides of phosphororus
+x2ir1t0	4 21	4 22	4 20	   oxides of phosphorus
+x2ir1ts	4 22	4 23	4 21	   phosphorus acid oxyacids of phosphorus part 1
+x2ir1tz	4 23	4 24	4 22	   preparation of orthophosphoric acid oxyacids of phosphorus part 2
+x2it4td	4 24	4 25	4 23	   chemical properties of orthophosphoric acid oxyacids of phosphorus p
+x2qtqf2	4 25	4 26	4 24	   similarities between oxygen and sulphur
+x2qtqgv	4 26	4 27	4 25	   differences between oxygen and sulphur
+x2qtqh2	4 27	4 28	4 26	   manufacture of sulfuric acid by contact process
+x2qtqhc	4 28	4 29	4 27	   reactions of sulfuric acid as an acid
+x2qtqhr	4 29	4 30	4 28	   dehydration reactions of sulfuric acid
+x2qtqi4	4 30	5 1	4 29	   oxidation and miscillaneous reactions of sulfuric acid
+x13oeaj	5 1	5 1	4 30	   general characteristics of halogens
+x14r5kf	5 1	5 1	5 1	   general characteristics of halogens tv
+x1x7jrb	5 1	5 2	5 1	   general characteristics of halogens
+x13o3n5	5 2	5 2	5 1	   peculiar nature of fluorine
+x13oeb0	5 2	5 2	5 2	   peculiar nature of fluorine
+x14r5ok	5 2	5 2	5 2	   peculiar nature of fluorine tv
+x1x7lea	5 2	5 3	5 2	   peculiar nature of fluorine
+x13oebf	5 3	5 3	5 2	   oxidizing potential of halogens
+x14r5qh	5 3	5 3	5 3	   oxidizing potential of halogens tv
+x1x7jua	5 3	5 4	5 3	   oxidizing potential of halogens
+x13o3nc	5 4	5 4	5 3	   hydrogen halides
+x13oebt	5 4	5 4	5 4	   hydrogen halides
+x14r63t	5 4	5 4	5 4	   hydrogen halides tv
+x1x7sqi	5 4	5 5	5 4	   hydrogen halides
+x13o3nf	5 5	5 5	5 4	   oxides of halogens
+x13oec3	5 5	5 5	5 5	   oxides of halogens
+x14r665	5 5	5 5	5 5	   oxides of halogens tv
+x1x7vwj	5 5	5 6	5 5	   oxides of halogens
+x13oecr	5 6	5 6	5 5	   disproportionation reactions of halogens
+x14r6cp	5 6	5 6	5 6	   disproportionation reactions of halogens tv
+x1x7ykd	5 6	5 7	5 6	   disproportionation reactions of halogens
+x13oed6	5 7	5 7	5 6	   oxyacids of halogens
+x14r6fk	5 7	5 7	5 7	   oxyacids of halogens tv
+x1x829w	5 7	5 8	5 7	   oxyacids of halogens
+x13oqe0	5 8	5 8	5 7	   physical chemical properties of oxyacids
+x14r6o4	5 8	5 8	5 8	   physical chemical properties of oxyacids tv
+x1x857k	5 8	5 9	5 8	   physical chemical properties of oxyacids
+x14r6o6	5 9	5 9	5 8	   the bleaching action calcium hypochlorite tv
+x1x87j7	5 9	5 10	5 9	   the bleaching action calcium hypochlorite
+x13oedw	5 10	5 10	5 9	   manufacturing uses of bleaching powder
+x14r6tt	5 10	5 10	5 10	   manufacturing uses of bleaching powder tv
+x1x8fdf	5 10	5 11	5 10	   manufacturing uses of bleaching powder
+x1x8ffw	5 11	5 12	5 10	   noble character of elements
+x1x8fli	5 12	5 13	5 11	   an introduction to noble gases
+x1x8fob	5 13	5 14	5 12	   compounds of noble gases
+x1x8fqw	5 14	6 1	5 13	   oxides fluorides oxyfluorides of xenon
+x13b4r8	6 1	6 2	5 14	   electronic configuration classification of transition elements
+x13b8ro	6 2	6 3	6 1	   general properties overview of transition elements
+x13b8rw	6 3	6 4	6 2	   enthalpy of atomization general characteristics of transition element
+x13b8s7	6 4	6 5	6 3	   oxidation states m p b p part 2
+x13b4ug	6 5	6 6	6 4	   magnetic properties part 3
+x13b9ee	6 6	6 7	6 5	   d d transition color formation part 4
+x13b9ej	6 7	6 8	6 6	   radii substitutional interstitial compounds part 5
+x13b5u4	6 8	6 9	6 7	   components nomenclature geometry complex compounds
+x13b9eo	6 9	6 10	6 8	   ferrous alloys manufacturing of wrought iron iron part 1
+x13b9ev	6 10	6 11	6 9	   manufacturing of steel open hearth process part 2
+x13m75j	6 11	6 12	6 10	   manufacturing of steel bessemer s process part 3
+x13m75w	6 12	6 13	6 11	   corrosion electrochemical theory corrosion part 1
+x13m7dm	6 13	6 14	6 12	   types of corrosion their methods of prevention corrosion part 2
+x13m7dt	6 14	6 14	6 13	   chromates dichromates
+x13o28z	6 14	6 15	6 14	   chromates dichromates x264
+x13o295	6 15	6 15	6 14	   potassium permanganate part 1 x264
+x1x92or	6 15	6 16	6 15	   potassium permanganate part 1
+x1x9530	6 16	7 1	6 15	   potassium permanganate part 2
+x2cbm23	7 1	7 2	6 16	   wohler s synthesis and vital force theory
+x2cbm2k	7 2	7 3	7 1	   characteristics of organic componds part 1
+x2cbm2z	7 3	7 4	7 2	   characteristics of organic componds part 2
+x2cbm3a	7 4	7 5	7 3	   coal sources of organic compounds part 1
+x2cbm3g	7 5	7 6	7 4	   natural gas sources of organic compounds part 2
+x2cbqm6	7 6	7 7	7 5	   fractional distillation of petroleum sources of organic compounds par
+x2cbqmk	7 7	7 8	7 6	   cracking of petroleum fractions part 1
+x2iw4oc	7 8	7 9	7 7	   cracking of petroleum fractions part 2
+x2cbqn3	7 9	7 10	7 8	   octane rating of fuel
+x2cbqny	7 10	7 11	7 9	   catalytic reforming of naphthas part 1
+x2cc0ai	7 11	7 12	7 10	   catalytic reforming of naphthas cont part 2
+x2cc23l	7 12	7 13	7 11	   classification of organic compounds
+x2cc0m4	7 13	7 14	7 12	   functional groups part 1
+x2cc0mp	7 14	7 15	7 13	   functional groups part 2
+x2cc0nc	7 15	7 16	7 14	   energy levels of carbon atom
+x2cc1ov	7 16	7 17	7 15	   sp3 hybridization and sigma bonds
+x2iqris	7 17	7 18	7 16	   sp2 hybridization and pi orbitals
+x2iqrja	7 18	7 19	7 17	   sp hybridization and pi orbitals
+x2cc1ph	7 19	7 20	7 18	   structural isomerism part 1
+x2cc1q5	7 20	7 21	7 19	   structural isomerism part 2
+x2cc4c5	7 21	7 22	7 20	   cis trans isomerism stereo isomerism part 1
+x2cc4ce	7 22	8 1	7 21	   optical isomerism stereo isomerism part 2
+x1cu5ug	8 1	8 2	7 22	   hydrocarbon numerals
+x1cubb8	8 2	8 3	8 1	   nomenclature of alkanes part 1 tv
+x1cum7j	8 3	8 4	8 2	   nomenclature of alkanes part 2
+x1cuvib	8 4	8 5	8 3	   nomenclature of alkenes alkynes
+x1cuxdy	8 5	8 6	8 4	   examples on nomenclature of alkenes alkynes
+x1cuztk	8 6	8 7	8 5	   preparation of alkanes part 1
+x1cv6s8	8 7	8 8	8 6	   decarboxylation of monocarboxylic acids part 2
+x1d877j	8 8	8 9	8 7	   kolbe s electrolytic method part 3
+x1dcda5	8 9	8 10	8 8	   by grignard reagents aldehydes and ketones part 4
+x1dcf0r	8 10	8 11	8 9	   physical properties reactivity of alkanes
+x1dcg49	8 11	8 12	8 10	   combustion oxidation nitration of alkanes
+x1dcou4	8 12	8 13	8 11	   halogenation of alkanes
+x1dcqps	8 13	8 14	8 12	   from alkyl halides alcohols preparation of alkenes part 1
+x1dcrgq	8 14	8 15	8 13	   from vicinal dihalides dicarboxylic acids alkynes preparation of alk
+x1dctet	8 15	8 16	8 14	   physical properties reactivity of alkenes
+x1dcuoy	8 16	8 17	8 15	   hydrogenation halogenation addition reactions of alkenes part 1
+x1dcx8r	8 17	8 18	8 16	   addition of acids addition reactions of alkenes part 2
+x1dcyti	8 18	8 19	8 17	   addition of acids cont addition reactions of alkenes part 3
+x1wu8pu	8 19	8 20	8 18	   epoxidation hydroxylation oxidation reactions of alkenes part 1
+x1wu8rm	8 20	8 21	8 19	   ozonolysis combustion oxidation reactions of alkenes part 2
+x1wudhs	8 21	8 22	8 20	   from vicinal dihalides tetrahalides preparation of alkynes part 1
+x1wudja	8 22	8 23	8 21	   from unsaturated dicarboxylic acids preparation of alkynes part 2
+x1wudr3	8 23	8 24	8 22	   addition of hydrogen halogens halogen acids addition reactions of al
+x1wuds7	8 24	8 25	8 23	   addition of water ammonia hydrogen cyanide addition reactions of alk
+x1wudth	8 25	8 26	8 24	   oxidation reactions of alkynes
+x1wutpt	8 26	8 27	8 25	   polymerization reactions of alkynes
+x1wutr3	8 27	8 28	8 26	   the acidic nature of alkynes
+x1wutvy	8 28	9 1	8 27	   relative reactivities of alkanes alkenes alkynes
+x1x1ill	9 1	9 2	8 28	   the huckle s rule aromaticity
+x1x1le0	9 2	9 3	9 1	   nomenclature of benzene derivatives
+x1x1lig	9 3	9 4	9 2	   straight chain structure structure of benzene part 1
+x1x1poj	9 4	9 5	9 3	   kekule s structure its limitations structure of benzene part 2
+x1x1ppk	9 5	9 6	9 4	   the stability of benzene structure of benzene part 3
+x1x1pqt	9 6	9 7	9 5	   the resonance method structure of benzene part 4
+x1x1xax	9 7	9 8	9 6	   from cyclohexane acetylene alkanes preparation of benzene part 1
+x1x27a9	9 8	9 9	9 7	   laboratory preparation wurtz fittig reaction preparation of benzene p
+x1x2a3l	9 9	9 10	9 8	   electrophilic substitution mechanism substitution reactions of benzen
+x1x2d6b	9 10	9 11	9 9	   halogenation nitration sulphonation substitution reactions of benzen
+x1x2g13	9 11	9 12	9 10	   friedel craft s reactions substitution reactions of benzene part 3
+x1x2ltn	9 12	9 13	9 11	   reduction halogenation combustion addition reactions of benzene part
+x1x2lyy	9 13	9 14	9 12	   catalytic side chain oxidation addition reactions of benzene part 2
+x1x39lg	9 14	9 15	9 13	   ozonolysis addition reactions of benzene part 3
+x1x39mx	9 15	9 16	9 14	   ortho para directing groups
+x1x39r3	9 16	9 17	9 15	   meta directing ring deactivating groups
+x1x39to	9 17	9 18	9 16	   relative reactivity of alkanes alkenes benzene
+x1x39wf	9 18	10 1	9 17	   selective practice problems
+x1x9zrd	10 1	10 2	9 18	   introduction nomenclature
+x1x9zyz	10 2	10 3	10 1	   preparation of alkyl halides part 1
+x1xa09m	10 3	10 4	10 2	   preparation of alkyl halides part 2
+x1xa0fr	10 4	10 5	10 3	   bond energy bond polarity reactivity of alkyl halides part 1
+x1xa0w0	10 5	10 6	10 4	   nucleophilicity substrate effects reactivity of alkyl halides part 2
+x1xarpy	10 6	10 7	10 5	   nucleophilicity substrate effects cont reactivity of alkyl halides p
+x1xatfv	10 7	10 8	10 6	   bimolecular nucleophilic substitution reactions
+x1xatru	10 8	10 9	10 7	   unimolecular nucleophilic substitution reactions
+x1xatv5	10 9	10 10	10 8	   rate and stereochemistry of sn1 reactions
+x1xau40	10 10	10 11	10 9	   sn2 versus sn1 reactions
+x1xeair	10 11	10 13	10 10	   first order elimination e1 reactions
+x1xean3	10 13	10 14	10 11	   general reactions of alkyl halides
+x1xeaq5	10 14	10 15	10 13	   preparation structure reactivity grignard reagents part 1
+x1xft9j	10 15	10 16	10 14	   reactions with protic reagents carbondioxide grignard reagents part
+x1xftb3	10 16	11 1	10 15	   reactions with aldehydes ketones epoxides grignard reagents part 3
+x1xfyy9	11 1	11 2	10 16	   classification nomenclature
+x1xg3r1	11 2	11 3	11 1	   general preparation of alcohols alcohols part 2
+x1xg2pj	11 3	11 4	11 2	   physical properties alcohols part 3
+x1xg56x	11 4	11 5	11 3	   reactivity alcohols part 4
+x1xg6mc	11 5	11 6	11 4	   first order substitution reactions alcohols part 5
+x1xg81r	11 6	11 7	11 5	   second order substitution reactions alcohols part 6
+x1xg83k	11 7	11 8	11 6	   oxidation dehydration alcohols part 7
+x2ds19c	11 8	11 9	11 7	   lucas and iodoform tests alcohols part 8
+x2cc70k	11 9	11 10	11 8	   introduction and preparation phenols part 1
+x2cc716	11 10	11 11	11 9	   quantitative aspects of acidity of solutions and compounds phenols
+x2cc71j	11 11	11 12	11 10	   acidic nature of phenols
+x2cc725	11 12	11 13	11 11	   reactions of phenols due to oh group
+x2cf7ku	11 13	11 14	11 12	   nitration and sulphonation of phenols
+x2cfb0a	11 14	11 15	11 13	   reaction with halogens hydrogen and formaldehyde
+x2cfdzy	11 15	11 16	11 14	   nomenclature and preparation ethers part 1
+x2cffz1	11 16	12 1	11 15	   physical and chemical properties ethers part 2
+x273mus	12 1	12 2	11 16	   introduction of carbonyl compounds
+x273mv5	12 2	12 3	12 1	   nomenclature of aldehydes and ketones
+x273mvh	12 3	12 4	12 2	   preparation of formaldehyde
+x273mvu	12 4	12 5	12 3	   preparation of acetaldehyde
+x273mw8	12 5	12 6	12 4	   general preparation of aldehydes and ketones
+x273o5l	12 6	12 7	12 5	   reactivity of carbonyl compounds
+x273o5v	12 7	12 8	12 6	   base catalysed nucleophilic addition reactions
+x273o61	12 8	12 9	12 7	   addition of hydrogen cyanide
+x273o68	12 9	12 10	12 8	   addition of grignard reagents
+x273o6h	12 10	12 11	12 9	   addition of sodium bisulfite
+x273p3r	12 11	12 12	12 10	   acidity of alpha hydrogen carbonyl compounds
+x273p3y	12 12	12 13	12 11	   aldol condensation
+x273p46	12 13	12 14	12 12	   cannizzaros reaction
+x273p4f	12 14	12 15	12 13	   haloform reaction
+x273p4u	12 15	12 16	12 14	   acid catalysed nucleophilic addition reactions
+x273qqk	12 16	12 17	12 15	   addition of ammonia derivatives part 1
+x273qtx	12 17	12 18	12 16	   addition of ammonia derivatives part 2
+x273qug	12 18	12 19	12 17	   reaction with alcohols
+x273qv0	12 19	12 20	12 18	   reduction reactions
+x273qvj	12 20	12 21	12 19	   oxidation of aldehydes
+x273rfs	12 21	13 1	12 20	   oxidation of ketones
+x273hh2	13 1	13 2	12 21	   introduction and nomenclature
+x273hra	13 2	13 3	13 1	   from alcohols aldehydes and ketones
+x273i4x	13 3	13 4	13 2	   from alkane nitriles
+x273idv	13 4	13 5	13 3	   from grignard reagents
+x273imk	13 5	13 6	13 4	   from esters and alkenes
+x273ivj	13 6	13 7	13 5	   physical properties of carboxylic acids
+x273ivs	13 7	13 8	13 6	   reactions involving hydrogen of carboxylic acids
+x273j6g	13 8	13 9	13 7	   reaction with thionyl chloride reactions involving hydroxyl group pa
+x273j6w	13 9	13 10	13 8	   reaction with phosphorous pentachloride reactions involving hydroxyl
+x273j76	13 10	13 11	13 9	   esterification reactions involving hydroxyl group part 3
+x273ko7	13 11	13 12	13 10	   formation of acid amides and anhydrides reactions involving hydroxy
+x273koq	13 12	13 13	13 11	   reduction of alkanes reactions involving carboxyl group part 1
+x273kp8	13 13	13 14	13 12	   kolbe s decarboxylation methods reactions involving carboxyl group
+x2ir1ab	13 14	13 15	13 13	   acetic acid
+x273kpl	13 15	13 16	13 14	   introduction and nomenclature amino acids part 1
+x273kq2	13 16	13 17	13 15	   classification and nature amino acids part 2
+x273lrh	13 17	13 18	13 16	   synthesis amino acids part 3
+x2iqvzx	13 18	13 19	13 17	   fischer esterification and ninhydrin test amino acids part 4
+x2iqw0l	13 19	14 1	13 18	   peptides and proteins amino acids part 5
+x2cbb3h	14 1	14 2	13 19	   introduction to macromolecules
+x2cbb3u	14 2	14 3	14 1	   classification of polymers
+x2cbb46	14 3	14 4	14 2	   thermoplastic and thermosetting polymers
+x2cbb4e	14 4	14 5	14 3	   addition polymerization
+x2cbb4m	14 5	14 6	14 4	   condensation polymerization
+x2cbesf	14 6	14 7	14 5	   polyvinylchloride synthetic polymers part 1
+x2cbgzd	14 7	14 8	14 6	   polystyrene synthetic polymers part 2
+x2cbgzy	14 8	14 9	14 7	   polyvinylacetate synthetic polymers part 3
+x2cbeud	14 9	14 10	14 8	   acrylic resins synthetic polymers part 4
+x2cbh0c	14 10	14 11	14 9	   polyester resins synthetic polymers part 5
+x2cbixq	14 11	14 12	14 10	   poly amide resins nylon synthetic polymers part 6
+x2cbixw	14 12	16 1	14 11	   epoxy resins synthetic polymers part 7
+x2qszzk	16 1	16 2	14 12	   components of environment
+x2qtgib	16 2	16 3	16 1	   primary air pollutants part 1
+x2qt00o	16 3	16 4	16 2	   primary air pollutants part 2
+x2qt014	16 4	16 5	16 3	   acid rain and smog
+x2qt01d	16 5	16 6	16 4	   ozone gas and depletion of ozone layer
+x2qtgud	16 6	16 7	16 5	   quality of water
+x2qt039	16 7	16 8	16 6	   aeration and coagulation
+x2qtgur	16 8	1 1	16 7	   water disinfection by chlrorination

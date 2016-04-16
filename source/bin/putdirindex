@@ -1,0 +1,20 @@
+#!/bin/bash
+case "$1" in
+    class)
+        str=$(getpath 1)
+        ;;
+    course)
+        str=$(getpath 2)
+        ;;
+    chapter)
+        str=$(getpath 3)
+        ;;
+esac
+
+grep -v dirindex index.md > tempindex
+replace="{{< dirindex dir=\"$str\" baseurl=\"/\">}}"
+
+echo $replace >> tempindex
+
+mv tempindex index.md
+
