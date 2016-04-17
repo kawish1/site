@@ -20,7 +20,9 @@ pagetype = "classpage"
 edmeta = "ED META"
 
 +++
-## Chapter 1 Lecture 14: exercise questions 13 16
+## Chapter 1 Lecture 14: Exercise 1.2 Questions 13 to 16
+<p class="lead">
+This lecture discusses Questions 13 to 16 of Exercise 1.2.
+</p>
 {{< dailymotion x2no0i4 >}}
 {{< nextprev next="../../chapter1/lecture15/"     prev="../../chapter1/lecture13/"  >}}
-

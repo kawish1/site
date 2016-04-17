@@ -20,7 +20,10 @@ pagetype = "classpage"
 edmeta = "ED META"
 
 +++
-## Chapter 1 Lecture 11: exercise questions 1 3
+## Chapter 1 Lecture 11: Exercise 1.2 Questions 1 to 3
+<p class="lead">
+This lecture solves the questions in Exercise 1.2.
+<p>
+
 {{< dailymotion x2nfgan >}}
 {{< nextprev next="../../chapter1/lecture12/"     prev="../../chapter1/lecture10/"  >}}
-

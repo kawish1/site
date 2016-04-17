@@ -20,7 +20,11 @@ pagetype = "classpage"
 edmeta = "ED META"
 
 +++
-## Chapter 1 Lecture 8: operations on complex numbers
+## Chapter 1 Lecture 8: Operations on Complex Numbers
+In this lecture you will learn about operations on complex numbers.
+You will learn about <code> Equality of Complex Numbers</code>,
+<code>  Addition of Complex Numbers</code>, <code> Multiplication of a Complex Number with a Real Number</code>, and <code> Multiplication of Complex Numbers </code>.:w
+  
+
 {{< dailymotion x2ndp48 >}}
 {{< nextprev next="../../chapter1/lecture9/"     prev="../../chapter1/lecture7/"  >}}
-

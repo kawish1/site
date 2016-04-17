@@ -20,7 +20,9 @@ pagetype = "classpage"
 edmeta = "ED META"
 
 +++
-## Chapter 1 Lecture 12: exercise questions 4 5
+## Chapter 1 Lecture 12: Exercise 1.2 Questions 4 and 5
+<p class="lead">
+Exercise 1.2 Questions 4 and 5 are discussed in this lecture.
+<p>
 {{< dailymotion x2nny38 >}}
 {{< nextprev next="../../chapter1/lecture13/"     prev="../../chapter1/lecture11/"  >}}
-

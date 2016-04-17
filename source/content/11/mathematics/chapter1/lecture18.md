@@ -20,7 +20,7 @@ pagetype = "classpage"
 edmeta = "ED META"
 
 +++
-## Chapter 1 Lecture 18: exercise questions 1 3
+## Chapter 1 Lecture 18: Exercise 1.3 Questions 1 to 3
+
 {{< dailymotion x2no8xt >}}
 {{< nextprev next="../../chapter1/lecture19/"     prev="../../chapter1/lecture17/"  >}}
-

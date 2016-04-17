@@ -20,7 +20,12 @@ pagetype = "classpage"
 edmeta = "ED META"
 
 +++
-## Chapter 1 Lecture 9: complex numbers as ordered pairs of real numbers
+## Chapter 1 Lecture 9: Complex Numbers as Ordered Pairs of Real Numbers
+<p class="lead">
+In this lecture you will learn about <code>Conjugate</code> of a complex number and
+operations on complex numbers when they are considered as <code> Ordered Pairs</code> of
+real numbers.
+</p>
+
 {{< dailymotion x2ndp4g >}}
 {{< nextprev next="../../chapter1/lecture10/"     prev="../../chapter1/lecture8/"  >}}
-

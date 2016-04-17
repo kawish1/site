@@ -20,7 +20,7 @@ pagetype = "classpage"
 edmeta = "ED META"
 
 +++
-## Chapter 1 Lecture 19: exercise questions 4 7
+## Chapter 1 Lecture 19: Exercise 1.3 Questions 4 7
+
 {{< dailymotion x2noaru >}}
 {{< nextprev next="../../chapter2/lecture1/"     prev="../../chapter1/lecture18/"  >}}
-

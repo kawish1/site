@@ -20,7 +20,7 @@ pagetype = "classpage"
 edmeta = "ED META"
 
 +++
-## Chapter 1 Lecture 13: exercise questions 6 12
+## Chapter 1 Lecture 13: Exercise 1.2 Questions 6 to 12
+
 {{< dailymotion x2nnzcd >}}
 {{< nextprev next="../../chapter1/lecture14/"     prev="../../chapter1/lecture12/"  >}}
-
