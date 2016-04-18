@@ -20,7 +20,10 @@ pagetype = "classpage"
 edmeta = "ED META"
 
 +++
-## Chapter 2 Lecture 1: intro 1
+
+## Chapter 2 Lecture 1: Sets, Functions, and Groups: Introduction
+<p class="lead"> In this lecture you will learn about <code>Set</code>. You will learn about <code> Representation of Sets</code> using <code> Tabular Method</code>, <code> Descriptive Method </code>, and <code> Set Builder Method</code>.
+</p>
+
 {{< dailymotion x1xgbz8 >}}
 {{< nextprev next="../../chapter2/lecture2/"     prev="../../chapter1/lecture19/"  >}}
-

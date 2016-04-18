@@ -22,7 +22,9 @@ edmeta = "ED META"
 +++
 ## Chapter 1 Lecture 15: The Real Line
 <p class="lead">
-Set of real numbers can be represented by a line called <code> Real Line <code>.
+Any real number is either a rational number or an irrational number.
+Set of real numbers can be represented by a line called <code> The Real Line </code>.
+You will learn how to <code> represent real numbers </code> on the real line by representing rational and irrational numbers on the real line.
 </p>
 
 {{< dailymotion x2no4sm >}}
