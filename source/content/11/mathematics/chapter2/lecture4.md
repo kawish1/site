@@ -20,7 +20,10 @@ pagetype = "classpage"
 edmeta = "ED META"
 
 +++
-## Chapter 2 Lecture 4: exercise questions 1
+## Chapter 2 Lecture 4: Exercise 2.1 Questions 1
+<p class="lead">
+In this lecture you will learn about the <code>Universal Set</code>. Then questions in Exercise 2.1 will be solved.
+<p>
+
 {{< dailymotion x1xl59x >}}
 {{< nextprev next="../../chapter2/lecture5/"     prev="../../chapter2/lecture3/"  >}}
-

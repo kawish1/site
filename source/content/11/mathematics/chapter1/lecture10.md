@@ -23,8 +23,7 @@ edmeta = "ED META"
 ## Chapter 1 Lecture 10: Properties of the Fundamental Operations on Complex Numbers
 <p class="lead">
 In this lecture you will learn about properties of fundamental operations on complex numbers.
-You will learn about <code>Additive Identity</code>, <code>Additive Inverse</code>,
-<code> Multiplicative Inverse</code>, and <code>Multiplicative Inverse</code>. 
+You will learn about <code>Additive Identity</code>, <code>Additive Inverse</code>, and <code>Multiplicative Inverse</code>. 
 <p>
 {{< dailymotion x2ndp4m >}}
 {{< nextprev next="../../chapter1/lecture11/"     prev="../../chapter1/lecture9/"  >}}
