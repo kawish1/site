@@ -20,7 +20,6 @@ pagetype = "classpage"
 edmeta = "ED META"
 
 +++
-## Chapter 2 Lecture 20: truth sets
+## Chapter 2 Lecture 20: Truth Sets
 {{< dailymotion x1xkj4y >}}
 {{< nextprev next="../../chapter2/lecture21/"     prev="../../chapter2/lecture19/"  >}}
-

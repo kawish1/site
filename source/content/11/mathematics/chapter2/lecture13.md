@@ -20,7 +20,10 @@ pagetype = "classpage"
 edmeta = "ED META"
 
 +++
-## Chapter 2 Lecture 13: de morgan s laws
+## Chapter 2 Lecture 13: De Morgan's Laws
+<p class="lead">
+In this lecture you will learn about <code> De Morgan's Laws </code> with several examples. You will also learn how to verify properties of operations on sets using Venn Diagrams.
+
+</p>
 {{< dailymotion x1xgnch >}}
 {{< nextprev next="../../chapter2/lecture14/"     prev="../../chapter2/lecture12/"  >}}
-

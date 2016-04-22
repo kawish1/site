@@ -20,7 +20,7 @@ pagetype = "classpage"
 edmeta = "ED META"
 
 +++
-## Chapter 2 Lecture 14: exercise questions 1 2
+## Chapter 2 Lecture 14: Exercise 2.3 Questions 1 and 2
+
 {{< dailymotion x1xgyeh >}}
 {{< nextprev next="../../chapter2/lecture15/"     prev="../../chapter2/lecture13/"  >}}
-

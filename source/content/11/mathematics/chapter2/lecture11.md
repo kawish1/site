@@ -20,7 +20,7 @@ pagetype = "classpage"
 edmeta = "ED META"
 
 +++
-## Chapter 2 Lecture 11: exercise questions 5 6
+## Chapter 2 Lecture 11: Exercise 2.2 Questions 5 and 6
+
 {{< dailymotion x1xgvzl >}}
 {{< nextprev next="../../chapter2/lecture12/"     prev="../../chapter2/lecture10/"  >}}
-

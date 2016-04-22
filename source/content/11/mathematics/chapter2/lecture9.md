@@ -20,7 +20,10 @@ pagetype = "classpage"
 edmeta = "ED META"
 
 +++
-## Chapter 2 Lecture 9: 9 venn diagrams
+## Chapter 2 Lecture 9: 9 Venn Diagrams
+<p class="lead">
+In this lecture you will learn about <code>Venn Diagrams</code> and how sets and operations on sets can be visualized using Venn Diagrams.
+</p>
+
 {{< dailymotion x1xgruv >}}
 {{< nextprev next="../../chapter2/lecture10/"     prev="../../chapter2/lecture8/"  >}}
-
