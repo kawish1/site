@@ -12,3 +12,15 @@
     margin-left:30px;
 
 }
+.breadcrumb > li + li:before {
+    content: "\3E"
+}
+h1 {
+  color: #339933;
+}
+h2 {
+  color: #2468a8;
+}
+code{
+  color: #089136;
+}

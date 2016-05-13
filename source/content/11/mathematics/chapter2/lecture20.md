@@ -21,5 +21,9 @@ edmeta = "ED META"
 
 +++
 ## Chapter 2 Lecture 20: Truth Sets
+<p class="lead">
+<code>Truth Sets</code> link the <code>Set Theory</code> and <code>Logic</code>.
+You will see several examples such as  <code>Complement</code> of a truth set represents the <code>Negation</code> of a proposition in logic. 
+</p>
 {{< dailymotion x1xkj4y >}}
 {{< nextprev next="../../chapter2/lecture21/"     prev="../../chapter2/lecture19/"  >}}

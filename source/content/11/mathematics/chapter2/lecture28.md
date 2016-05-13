@@ -20,7 +20,12 @@ pagetype = "classpage"
 edmeta = "ED META"
 
 +++
-## Chapter 2 Lecture 28: groups
+## Chapter 2 Lecture 28: Groups
+<p class="lead">
+In this lecture we will study <code> Groups</code>. We will study
+<code>Groupiod</code>, <code> Non-Commutatvie or Non-Abelian Sets</code>,
+<code> Semi Group</code>, <code> Monoid</code>, and <code> Groups</code>. 
+</p>
+
 {{< dailymotion x2vdxbb >}}
 {{< nextprev next="../../chapter3/lecture1/"     prev="../../chapter2/lecture27/"  >}}
-

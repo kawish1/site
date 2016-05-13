@@ -20,7 +20,9 @@ pagetype = "classpage"
 edmeta = "ED META"
 
 +++
-## Chapter 2 Lecture 22: relations
+## Chapter 2 Lecture 22: Relations
+<p class="lead">
+In this lecture you will learn about <code> Relations</code> as sets of ordered pairs.
+</p>
 {{< dailymotion x1xks83 >}}
 {{< nextprev next="../../chapter2/lecture23/"     prev="../../chapter2/lecture21/"  >}}
-

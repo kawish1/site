@@ -21,5 +21,7 @@ edmeta = "ED META"
 
 +++
 ## Chapter 2 Lecture 19: Exercise 2.4 Questions 1 to 5
+
+
 {{< dailymotion x2w5sow >}}
 {{< nextprev next="../../chapter2/lecture20/"     prev="../../chapter2/lecture18/"  >}}

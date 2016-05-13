@@ -20,7 +20,12 @@ pagetype = "classpage"
 edmeta = "ED META"
 
 +++
-## Chapter 2 Lecture 27: binary operations
+## Chapter 2 Lecture 27: Binary Operations
+<p class="lead">
+In this lecture you will learn about <code> Unary Operations</code> and <code>Binary Operations</code>. You will learn about <code> Closure of Sets under Binary Operations
+</code> and properties of binary operations.
+
+</p>
+
 {{< dailymotion x2w5s2r >}}
 {{< nextprev next="../../chapter2/lecture28/"     prev="../../chapter2/lecture26/"  >}}
-

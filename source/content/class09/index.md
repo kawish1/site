@@ -13,7 +13,7 @@ type   = "class"
 layout = "class"
 pagetype = "classpage"
 
-homepage="show"
+homepage="no show"
 +++
 Hello.
 This is a class page.
