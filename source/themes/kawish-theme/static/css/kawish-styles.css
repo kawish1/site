@@ -13,6 +13,8 @@
 
 }
 .breadcrumb > li + li:before {
+
+    color: #006dcc;
     content: "\3E"
 }
 h1 {
@@ -22,5 +24,6 @@ h2 {
   color: #2468a8;
 }
 code{
-  color: #089136;
+  background-color: #cce6ff;
+  color: #0d0df3;
 }

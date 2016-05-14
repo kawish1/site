@@ -1,5 +1,14 @@
 {{ $id := .Get 0}}
-
-<iframe  class="container well col6"
-    src="//www.dailymotion.com/embed/video/{{$id}}"
-    allowfullscreen></iframe>
+  <script src="https://api.dmcdn.net/all.js"></script>
+      <div id="player"></div>
+      <script>
+      var player = DM.player(document.getElementById("player"), {
+          video: {{ $id}},
+          width: "100%",
+          height:"300",
+          params: {
+              autoplay: false,
+              mute: false
+          }
+      });
+    </script>

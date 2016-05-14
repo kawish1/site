@@ -1,15 +1,16 @@
 
 {{ partial "header.html" .}}
 <div class="container">
-<ul class="breadcrumb">
-    <li> <font color="blue"> Go to </font> </li>
-    <li>  <a href="{{.Site.BaseURL}}" class="btn btn-sm btn-primary"> Home </a> </li>
-    <li>  <a href="../../../" class="btn btn-sm btn-primary"> Class </a> </li>
-    <li>  <a href="../../" class="btn btn-sm btn-primary"> Course</a> </li>
-    <li> <a href="../" class="btn btn-sm btn-primary"> Chapter</a> </li>
- </ul>
-
+ <div class="btn-toolbar">
+   <a href="{{.Site.BaseURL}}" class="btn btn-md btn-primary"> Home </a>
+   <a href="../../../" class="btn btn-md btn-primary"> Class </a>
+   <a href="../../" class="btn btn-md btn-primary"> Course</a>
+   <a href="../" class="btn btn-md btn-primary"> Chapter</a>
+ </div>
 {{ .Content }}
+<div class="row pull-right" >
+  {{partial "facebook-like.html"}}
+</div>
 
 </div>
 {{partial "footer.html" .}}

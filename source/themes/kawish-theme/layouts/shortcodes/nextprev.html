@@ -1,6 +1,14 @@
 {{$nextlink := .Get "next"}}
 {{$prevlink := .Get "prev" }}
-<p>
-<a href="{{$nextlink}}" class="btn btn-md btn-success"  > Next Lecture </a>
-<a href="{{$prevlink}}" class="btn btn-md btn-success"  > Previous Lecture </a>
-</p>
+<div class="container">
+  <div class="row">
+      <a href="{{$prevlink}}" class="btn btn-md btn-success"  >
+          Previous Lecture
+      </a>
+      <a href="{{$nextlink}}" class="btn btn-md btn-success"  >
+        Next Lecture
+      </a>
+
+  </div>
+
+</div>
