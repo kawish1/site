@@ -20,7 +20,14 @@ pagetype = "classpage"
 edmeta = "ED META"
 
 +++
-## Chapter 3 Lecture 2: intro 2
+## Chapter 3 Lecture 2: Matrix Operations
+{{<credits ori="Maktab Foundation" lec="Adil Mahmood" des="Qazi Rashid Hamid">}}
+<p class="lead">
+In this lecture we will study <code> Operations on Matrices</code> namely
+<code>Addition</code>, <code>Subtraction</code>, <code> Transposition</code>,
+<code>Scaler Multiplication</code>, and <code> Matrix-Matrix Multiplication</code>.
+
+</p>
+<hr>
 {{< dailymotion x19c9p1 >}}
 {{< nextprev next="../../chapter3/lecture3/"     prev="../../chapter3/lecture1/"  >}}
-
