@@ -20,9 +20,9 @@ pagetype = "classpage"
 edmeta = "ED META"
 
 +++
-## Chapter 3 Lecture 1: Matrices and Determinants: Introduction
+## Chapter 3 Lecture 1: Matrices and Determinants: Introduction 1
 
-{{<credits ori="Maktab Foundation" lec="Adil Mahmood" des="Qazi Rashid Hamid">}}
+{{<credits ori="Maktab.pk" lec="Adil Mahmood" des="Qazi Rashid">}}
 <p class="lead">
 In this lecture we will learn about <code> Matrices</code> which are special type of arrays of numbers. We will learn about <code>Rows</code>, <code>Columns</code>, <code> Order of Matrix</code>, <code> Principal Diagonal</code> and <code>Secondary Diagonal</code>. We will study <code> Types of Matrices</code> such as
 <code> Row Vector </code>, <code>Column Vector</code>, <code> Square Matrix </code>,

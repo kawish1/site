@@ -20,7 +20,14 @@ pagetype = "classpage"
 edmeta = "ED META"
 
 +++
-## Chapter 3 Lecture 4: intro 4
+{{<credits ori="Maktab.pk" lec="Adil Mahmood" des="Qazi Rashid">}}
+
+## Chapter 3 Lecture 4: Matrices and Determinants: Introduction 4
+<p class="lead">
+In this lecture we will study a method to solve <code> System of Linear Equations</code>
+by using <code> Matrices</code>. Then we will study some properties of matrix operations namely <code>Commutative Property</code>, <code> Associative Property</code>, <code>
+Distributive Property</code>, <code> Additive Identity</code>, and <code> Multiplicative Identity</code>.
+</p>
+
 {{< dailymotion x19ltr1 >}}
 {{< nextprev next="../../chapter3/lecture5/"     prev="../../chapter3/lecture3/"  >}}
-

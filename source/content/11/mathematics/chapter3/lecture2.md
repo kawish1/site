@@ -20,8 +20,9 @@ pagetype = "classpage"
 edmeta = "ED META"
 
 +++
+{{<credits ori="Maktab.pk" lec="Adil Mahmood" des="Qazi Rashid">}}
 ## Chapter 3 Lecture 2: Matrix Operations
-{{<credits ori="Maktab Foundation" lec="Adil Mahmood" des="Qazi Rashid Hamid">}}
+
 <p class="lead">
 In this lecture we will study <code> Operations on Matrices</code> namely
 <code>Addition</code>, <code>Subtraction</code>, <code> Transposition</code>,

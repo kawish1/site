@@ -20,7 +20,14 @@ pagetype = "classpage"
 edmeta = "ED META"
 
 +++
-## Chapter 3 Lecture 3: intro 3
+{{<credits ori="Maktab.pk" lec="Adil Mahmood" des="Qazi Rashid">}}
+
+## Chapter 3 Lecture 3: Matrices and Determinants: Introduction 2
+<p class="lead">
+In this lecture we will study about <code> Determinant of Matrix </code>,
+<code>Singular Matrix</code>, <code> Non-singular Matrix</code>,
+<code> Adjoint of Matrix</code>, and <code> Inverse of Matix</code>.
+</p>
+
 {{< dailymotion x19ltoo >}}
 {{< nextprev next="../../chapter3/lecture4/"     prev="../../chapter3/lecture2/"  >}}
-
