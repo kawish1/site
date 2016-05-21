@@ -21,13 +21,12 @@ edmeta = "ED META"
 
 +++
 {{<credits ori="Maktab.pk" lec="Adil Mahmood" des="Qazi Rashid">}}
-## Chapter 3 Lecture 2: Matrix Operations
-
+## Chapter 3 Lecture 2: Matrices and Determinant: Introduction 2
+<hr>
 <p class="lead">
 In this lecture we will study <code> Operations on Matrices</code> namely
 <code>Addition</code>, <code>Subtraction</code>, <code> Transposition</code>,
 <code>Scaler Multiplication</code>, and <code> Matrix-Matrix Multiplication</code>.
-
 </p>
 <hr>
 {{< dailymotion x19c9p1 >}}

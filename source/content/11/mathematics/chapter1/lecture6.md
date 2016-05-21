@@ -20,11 +20,14 @@ pagetype = "classpage"
 edmeta = "ED META"
 
 +++
-## Chapter 1 Lecture 6: Exercise 1
-<p class="lead">
-This lecture will solve questions from <code> Exercise 1.1 </code>  and will solve <code> Questions 1, 2, 3</code>,
-and <code>4</code>.
-</p>
+{{<credits ori="Maktab.pk" lec="Adil Mahmood" des="Qazi Rashid">}}
 
+## Chapter 1 Lecture 6: Exercise 1.1 Question 1 to 3
+<hr>
+<p class="lead">
+In this lecture we will solve questions from <code> Exercise 1.1 </code>  and will solve <code> Questions 1, 2, 3,
+and 4</code>.
+</p>
+<hr>
 {{< dailymotion x16q36h >}}
 {{< nextprev next="../../chapter1/lecture7/"     prev="../../chapter1/lecture5/"  >}}

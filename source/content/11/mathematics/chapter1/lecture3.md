@@ -20,16 +20,17 @@ pagetype = "classpage"
 edmeta = "ED META"
 
 +++
-## Chapter 1 Lecture 3: Properties of Real Numbers Part 2
+{{<credits ori="Maktab.pk" lec="Adil Mahmood" des="Qazi Rashid">}}
 
-<p class="lead">  Lecture 2 introduced 
+## Chapter 1 Lecture 3: Properties of Real Numbers Part 2
+<hr>
+<p class="lead">  Lecture 2 introduced
 laws of real numbers for <code>Addition</code>. This lecture introduces the same laws
 of real numbers for <code>Multiplication</code>.
-In addition to the laws studied in Lecture 2, you will also learn about <code> Distributive Law </code>
+In addition to the laws studied in Lecture 2, we will also learn about <code> Distributive Law </code>
 of addition and multiplication of real numbers.
-
 </p>
-are studied with repect to 
+<hr>
+
 {{< dailymotion x16qixg >}}
 {{< nextprev next="../../chapter1/lecture4/"     prev="../../chapter1/lecture2/"  >}}
-

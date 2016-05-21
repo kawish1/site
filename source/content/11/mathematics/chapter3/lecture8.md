@@ -20,7 +20,15 @@ pagetype = "classpage"
 edmeta = "ED META"
 
 +++
-## Chapter 3 Lecture 8: exercise questions 1 3
+{{<credits ori="Maktab.pk" lec="Adil Mahmood" des="Qazi Rashid">}}
+
+## Chapter 3 Lecture 8: Exercise 3.2 Questions 1 to 3
+<hr>
+<p class="lead">
+In this lecture we will solve Exercise 3.2 Questions 1, 2 and 3.
+We will use concepts about <code> Identity Matrix</code>, <code> Matrix inverse</code>,
+and <code> Solve Linear Equations using Matrices</code>.
+</p>
+<hr>
 {{< dailymotion x1bcjyh >}}
 {{< nextprev next="../../chapter3/lecture9/"     prev="../../chapter3/lecture7/"  >}}
-

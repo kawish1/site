@@ -20,7 +20,14 @@ pagetype = "classpage"
 edmeta = "ED META"
 
 +++
-## Chapter 3 Lecture 5: exercise questions 1 5
+{{<credits ori="Maktab.pk" lec="Adil Mahmood" des="Qazi Rashid">}}
+
+## Chapter 3 Lecture 5: Exercise 3.1 Questions 1 to 5
+<hr>
+<p class="lead">
+In this lecture we will solve <code>Exercise 3.1</code> <code>Questions 1, 2, 3,
+4 and 5.</code>
+</p>
+<hr>
 {{< dailymotion x19ltti >}}
 {{< nextprev next="../../chapter3/lecture6/"     prev="../../chapter3/lecture4/"  >}}
-

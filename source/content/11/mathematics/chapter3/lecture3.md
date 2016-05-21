@@ -22,12 +22,15 @@ edmeta = "ED META"
 +++
 {{<credits ori="Maktab.pk" lec="Adil Mahmood" des="Qazi Rashid">}}
 
-## Chapter 3 Lecture 3: Matrices and Determinants: Introduction 2
+## Chapter 3 Lecture 3: Matrices and Determinants: Introduction 3
+<hr>
 <p class="lead">
 In this lecture we will study about <code> Determinant of Matrix </code>,
 <code>Singular Matrix</code>, <code> Non-singular Matrix</code>,
 <code> Adjoint of Matrix</code>, and <code> Inverse of Matix</code>.
 </p>
-
+<hr>
 {{< dailymotion x19ltoo >}}
 {{< nextprev next="../../chapter3/lecture4/"     prev="../../chapter3/lecture2/"  >}}
+## Test equation.
+$$\lambda=\sqrt(x)$$

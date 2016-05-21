@@ -20,7 +20,14 @@ pagetype = "classpage"
 edmeta = "ED META"
 
 +++
-## Chapter 1 Lecture 18: Exercise 1.3 Questions 1 to 3
+{{<credits ori="Maktab.pk" lec="Adil Mahmood" des="Qazi Rashid">}}
 
+## Chapter 1 Lecture 18: Exercise 1.3 Questions 1 to 3
+<hr>
+<p class="lead">
+In this lecture we will solve <code>Exercise 1.3</code> <code>Questions 1, 2 and 3.</code>
+We will <code>Graph</code> some complex numbers on the complex plane, <code> Find Multiplicative Inverse</code> of complex numbers and <code>Simplify</code> some complex numbers.
+</p>
+<hr>
 {{< dailymotion x2no8xt >}}
 {{< nextprev next="../../chapter1/lecture19/"     prev="../../chapter1/lecture17/"  >}}

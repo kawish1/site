@@ -10,20 +10,17 @@
     <div class="container">
         <div class="row">
         {{ range $index, $element := .Data.Pages.ByWeight }}
-          {{if (eq .Params.homepage "show")}}
+          {{if (eq .Params.homepage "show") }}
           <div class="col-sm-4">
-
             <div class="thumbnail">
-            <a href="{{ .Permalink }}" type="button" class="btn btn-md btn-success" >
-               {{ .Title}}
+              <a href="{{ .Permalink }}" type="button" class="btn btn-md btn-success" >
+                {{ .Title}}
                 <b class="glyphicon glyphicon-user"></b>
-            </a>
-          </div>:<wbr>
-          </div>
-          {{end}}
-        {{end}}
+              </a>
+            </div>
+          </div>{{end}}
+        {{ end }}
+      </div>
     </div>
-    </div>
-
-</div>
-{{ partial "footer.html" .}}
+  </div>
+        {{ partial "footer.html" .}}

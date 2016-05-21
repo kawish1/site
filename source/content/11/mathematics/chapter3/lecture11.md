@@ -20,7 +20,15 @@ pagetype = "classpage"
 edmeta = "ED META"
 
 +++
-## Chapter 3 Lecture 11: inverse of matrics of order 3
+{{<credits ori="Maktab.pk" lec="Adil Mahmood" des="Qazi Rashid">}}
+
+## Chapter 3 Lecture 11: Inverse of 3x3 Matrix
+<hr>
+<p class="lead">
+In this lecture we will study how to find the inverse of 3x3 matrices by finding
+adjoint and determinant of 3x3 matrix.
+</p>
+<hr>
+
 {{< dailymotion x1bcix5 >}}
 {{< nextprev next="../../chapter3/lecture12/"     prev="../../chapter3/lecture10/"  >}}
-

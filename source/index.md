@@ -18,5 +18,5 @@ pagetype = "classpage"
 Hello.
 This is a class page.
 
-The file index is 
+The file index is
 {{< dirindex dir="content/Class-9th/" baseurl="/" >}}

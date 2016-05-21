@@ -18,5 +18,5 @@ pagetype = "classpage"
 homepage = "show"
 
 +++
- 
+
 {{< dirindex dir="content/11/" baseurl="/">}}

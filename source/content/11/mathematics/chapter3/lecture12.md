@@ -20,7 +20,15 @@ pagetype = "classpage"
 edmeta = "ED META"
 
 +++
-## Chapter 3 Lecture 12: properties of determinants tv
+{{<credits ori="Maktab.pk" lec="Adil Mahmood" des="Qazi Rashid">}}
+
+## Chapter 3 Lecture 12: Properties of Determinants
+<hr>
+<p class="lead">
+In this lecture we will study properties of determinants.
+We will learn how transposing, interchanging rows and columns, similarity of rows and columns, scaler multiplication, and addition affects the determinant.  
+</p>
+<hr>
+
 {{< dailymotion x1bcj64 >}}
 {{< nextprev next="../../chapter3/lecture13/"     prev="../../chapter3/lecture11/"  >}}
-

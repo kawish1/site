@@ -16,7 +16,6 @@ pagetype = "classpage"
 
 +++
 
-### Select chapter 
-
+### Select chapter
 
 {{< dirindex dir="content/11/mathematics/" baseurl="/">}}

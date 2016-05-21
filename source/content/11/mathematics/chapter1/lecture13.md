@@ -20,7 +20,16 @@ pagetype = "classpage"
 edmeta = "ED META"
 
 +++
-## Chapter 1 Lecture 13: Exercise 1.2 Questions 6 to 12
+{{<credits ori="Maktab.pk" lec="Adil Mahmood" des="Qazi Rashid">}}
 
+## Chapter 1 Lecture 13: Exercise 1.2 Questions 6 to 12
+<hr>
+<p class="lead">
+  In this lecture we will solve <code> Exercise 1.2</code> <code> Questions 6, 7,
+  8, 9, 10, 11, and 12.</code> We will use concepts about <code> Addition</code>,
+  <code>Subtraction</code>, <code>Multplication</code> and <code>Division</code>
+  of complex numbers.
+</p>
+<hr>
 {{< dailymotion x2nnzcd >}}
 {{< nextprev next="../../chapter1/lecture14/"     prev="../../chapter1/lecture12/"  >}}

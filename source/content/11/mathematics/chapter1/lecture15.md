@@ -20,12 +20,14 @@ pagetype = "classpage"
 edmeta = "ED META"
 
 +++
+{{<credits ori="Maktab.pk" lec="Adil Mahmood" des="Qazi Rashid">}}
 ## Chapter 1 Lecture 15: The Real Line
+<hr>
 <p class="lead">
 Any real number is either a rational number or an irrational number.
 Set of real numbers can be represented by a line called <code> The Real Line </code>.
-You will learn how to <code> represent real numbers </code> on the real line by representing rational and irrational numbers on the real line.
+In this lecture we will learn how to <code> represent real numbers </code> on the real line by representing rational and irrational numbers on the real line.
 </p>
-
+<hr>
 {{< dailymotion x2no4sm >}}
 {{< nextprev next="../../chapter1/lecture16/"     prev="../../chapter1/lecture14/"  >}}

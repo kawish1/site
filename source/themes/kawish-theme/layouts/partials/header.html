@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" xmlns:m="http://www.w3.org/1998/Math/MathML">
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -7,13 +7,15 @@
     <meta name="author" content="Kawish team: Qazi Hamid">
 
     <title>{{ .Title }}</title>
+    <!-- File for mathscript -->
+  	<!--link rel="stylesheet" href="{{.Site.BaseURL}}mathscribe/jqmath-0.4.3.css"-->
 
     <!-- Bootstrap core CSS -->
-    <link href="{{ .Site.BaseURL }}/css/bootstrap.min.css" rel="stylesheet">
+    <link href="{{ .Site.BaseURL }}css/bootstrap.min.css" rel="stylesheet">
 
-    <link href='http://fonts.googleapis.com/css?family=Arbutus+Slab&family=Cabin:600&family=Source+Code+Pro' rel='stylesheet' type='text/css'>
+    <link href='http://fonts.googleapis.com/css?family=UnifrakturMaguntia&family=Arbutus+Slab&family=Cabin:600&family=Source+Code+Pro' rel='stylesheet' type='text/css'>
     <!-- Add custom CSS here -->
-    <link href="{{.Site.BaseURL}}/css/kawish-styles.css" rel="stylesheet">
+    <link href="{{.Site.BaseURL}}css/kawish-styles.css" rel="stylesheet">
     <!--link href="{{ .Site.BaseURL }}css/HPstyles.css" rel="stylesheet" -->
     <!--link href="{{ .Site.BaseURL }}css/hugofont.css" rel="stylesheet" -->
     <!--link href="{{ .Site.BaseURL }}css/owl.carousel.css" rel="stylesheet"-->
@@ -32,7 +34,7 @@
                 <span class="icon-bar"> </span>
             </button>
             <a class="navbar-brand text-mutted", href="{{ .Site.BaseURL}}">
-                <img src="{{.Site.BaseURL}}/kawish.png" width="40%" height="100%" />
+                <img src="{{.Site.BaseURL}}kawish.png" width="40%" height="100%" />
             </a>
           <div class="collapse navbar-collapse">
             <ul class="nav nav-pills pull-right">

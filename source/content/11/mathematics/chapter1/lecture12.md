@@ -20,9 +20,13 @@ pagetype = "classpage"
 edmeta = "ED META"
 
 +++
+{{<credits ori="Maktab.pk" lec="Adil Mahmood" des="Qazi Rashid">}}
+
 ## Chapter 1 Lecture 12: Exercise 1.2 Questions 4 and 5
+<hr>
 <p class="lead">
-Exercise 1.2 Questions 4 and 5 are discussed in this lecture.
+<code> Exercise 1.2</code> <code>Questions 4 and 5</code> are discussed in this lecture.
 <p>
+<hr>
 {{< dailymotion x2nny38 >}}
 {{< nextprev next="../../chapter1/lecture13/"     prev="../../chapter1/lecture11/"  >}}

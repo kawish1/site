@@ -20,14 +20,17 @@ pagetype = "classpage"
 edmeta = "ED META"
 
 +++
-## Chapter 1 Lecture 4: Properties of Real Numbers Part 3
-<p class="lead"> In this lecture you will learn about more properties of real numbers that are 
-called the <code> Properties of Equality</code>. You will 
-learn about <code>Reflexive Property</code>, <code> Symmetric Property</code>, 
-<code>Transitive Property</code>. <code> Additive Property</code> and
-<code> Cancellation Property</code>.<p>
+{{<credits ori="Maktab.pk" lec="Adil Mahmood" des="Qazi Rashid">}}
 
+## Chapter 1 Lecture 4: Properties of Real Numbers Part 3
+<hr>
+<p class="lead"> In this lecture we will discuss more properties of real numbers that are
+called the <code> Properties of Equality</code>. We will
+learn about <code>Reflexive Property</code>, <code> Symmetric Property</code>,
+<code>Transitive Property</code>. <code> Additive Property</code> and
+<code> Cancellation Property</code>.
+</p>
+<hr>
 
 {{< dailymotion x16qj64 >}}
 {{< nextprev next="../../chapter1/lecture5/"     prev="../../chapter1/lecture3/"  >}}
-

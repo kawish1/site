@@ -25,8 +25,11 @@ h2 {
 }
 code{
   background-color: #cce6ff;
-  color: #0d0df3;
+  color: #2468a8;
 }
 .credits{
-  color: #143bbd;
+  color: #2468a8;
+}
+kbd{
+  background-color: #2468a8;
 }

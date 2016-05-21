@@ -20,11 +20,14 @@ pagetype = "classpage"
 edmeta = "ED META"
 
 +++
+{{<credits ori="Maktab.pk" lec="Adil Mahmood" des="Qazi Rashid">}}
 ## Chapter 1 Lecture 17: The Complex Plane
+<hr>
 <p class="lead">
 Complex numbers can be represented by ordered pair of real numbers. We know that ordered pairs
 of real numbers can be represented in a coordinate plane. Therefore complex numbers can also be
 represented in a plane called <code> The Complex Plane</code>. You will learn about the <code> Argand Diagram</code> and the <code> Z-Plane</code>. You will also learn about <code> Modulus</code> of a complex number.
 </p>
+<hr>
 {{< dailymotion x2no5zu >}}
 {{< nextprev next="../../chapter1/lecture18/"     prev="../../chapter1/lecture16/"  >}}
